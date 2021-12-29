@@ -1,0 +1,4 @@
+Install from QwtSrc folder (not qwt-6.1.4)
+Add PATH C:\qwt-6.1.4\lib
+Add QMAKEFEATURES = c:\Qwt-6.1.4\features
+Reboot

@@ -1,0 +1,1716 @@
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+C:\Work\Meatec\Main\cnc-002\P-CAD\CNC_2_0.erc:
+
+ERC Report Options:
+-------------------
+
+Single Node Nets:   On
+No Node Nets:       On
+Electrical Rules:        On
+Unconnected Pins:        On
+Unconnected Wires:       On
+Bus/Net Rules:           On
+Component Rules:         On
+Net Connectivity Rules:  On
+Hierarchy Rules:         On
+
+ERC Errors:
+-----------
+
+
+SINGLE NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NO NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ELECTRICAL RULES:
+
+Warning 1 -- Net GNDA_MCU has no input pins
+Warning 2 -- Net GNDA_MCU has no output pins
+Warning 3 -- Net NET00021 has no input pins
+Warning 4 -- Net NET00021 has no output pins
+Warning 5 -- Net NET00000 has no input pins
+Warning 6 -- Net NET00000 has no output pins
+Warning 7 -- Net 3.3VA_FPGA has no input pins
+Warning 8 -- Net 3.3VA_FPGA has no output pins
+Warning 9 -- Net STM_LED_0 has no input pins
+Warning 10 -- Net STM_LED_0 has no output pins
+Warning 11 -- Net ALT_LED# has no input pins
+Warning 12 -- Net ALT_LED# has no output pins
+Warning 13 -- Net NET00027 has no input pins
+Warning 14 -- Net NET00027 has no output pins
+Warning 15 -- Net ALT_24MHZ has no input pins
+Warning 16 -- Net ALT_24MHZ has no output pins
+Warning 17 -- Bi pin on sheet:MCU1 at mm (275.000,245.000) connected to output 
+pin
+Warning 18 -- Net UART3_CTS has no input pins
+Warning 19 -- Net 24MHZ has no input pins
+Warning 20 -- Net NET00003 has no input pins
+Warning 21 -- Net NET00003 has no output pins
+Warning 22 -- Net CURRENT_0 has no input pins
+Warning 23 -- Net CURRENT_0 has no output pins
+Warning 24 -- Net NET00028 has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    1
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 25 -- Net NET00028 has no output pins
+Warning 26 -- Net UART1_RX has no input pins
+Warning 27 -- Net UART1_RX has no output pins
+Warning 28 -- Net NET00016 has no input pins
+Warning 29 -- Net NET00016 has no output pins
+Warning 30 -- Net CURRENT_1 has no input pins
+Warning 31 -- Net CURRENT_1 has no output pins
+Warning 32 -- Net ST_24MHZ has no input pins
+Warning 33 -- Net ST_24MHZ has no output pins
+Warning 34 -- Net NET00017 has no output pins
+Warning 35 -- Net USB_SHIELD has no input pins
+Warning 36 -- Net USB_SHIELD has no output pins
+Warning 37 -- Net NET00011 has no input pins
+Warning 38 -- Net NET00011 has no output pins
+Warning 39 -- Net NET00129 has no input pins
+Warning 40 -- Net NET00129 has no output pins
+Warning 41 -- Net 3.3VA_MCU has no input pins
+Warning 42 -- Net 3.3VA_MCU has no output pins
+Warning 43 -- Net PULT_B has no output pins
+Warning 44 -- Net FMC_DA3 has no input pins
+Warning 45 -- Net FMC_DA3 has no output pins
+Warning 46 -- Net FMC_NBL0 has no input pins
+Warning 47 -- Net FMC_NBL0 has no output pins
+Warning 48 -- Net FMC_DA13 has no input pins
+Warning 49 -- Net FMC_DA13 has no output pins
+Warning 50 -- Net FMC_NBL1 has no input pins
+Warning 51 -- Net FMC_NBL1 has no output pins
+Warning 52 -- Net FMC_NL has no input pins
+Warning 53 -- Net FMC_NL has no output pins
+Warning 54 -- Net NET00130 has no input pins
+Warning 55 -- Net NET00130 has no output pins
+Warning 56 -- Net FMC_NOE has no input pins
+Warning 57 -- Net FMC_NOE has no output pins
+Warning 58 -- Net FMC_NWE has no input pins
+Warning 59 -- Net FMC_NWE has no output pins
+Warning 60 -- Net FMC_DA2 has no input pins
+Warning 61 -- Net FMC_DA2 has no output pins
+Warning 62 -- Net FMC_DA14 has no input pins
+Warning 63 -- Net FMC_DA14 has no output pins
+Warning 64 -- Net FMC_DA15 has no input pins
+Warning 65 -- Net FMC_DA15 has no output pins
+Warning 66 -- Net FMC_DA0 has no input pins
+Warning 67 -- Net FMC_DA0 has no output pins
+Warning 68 -- Net FMC_DA1 has no input pins
+Warning 69 -- Net FMC_DA1 has no output pins
+Warning 70 -- Net NET00123 has no output pins
+Warning 71 -- Net FMC_NE1 has no input pins
+Warning 72 -- Net FMC_NE1 has no output pins
+Warning 73 -- Net FMC_DA4 has no input pins
+Warning 74 -- Net FMC_DA4 has no output pins
+Warning 75 -- Net FMC_DA5 has no input pins
+Warning 76 -- Net FMC_DA5 has no output pins
+Warning 77 -- Net FMC_DA6 has no input pins
+Warning 78 -- Net FMC_DA6 has no output pins
+Warning 79 -- Net FMC_DA7 has no input pins
+Warning 80 -- Net FMC_DA7 has no output pins
+Warning 81 -- Net FMC_DA8 has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    2
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 82 -- Net FMC_DA8 has no output pins
+Warning 83 -- Net FMC_DA9 has no input pins
+Warning 84 -- Net FMC_DA9 has no output pins
+Warning 85 -- Net FMC_DA10 has no input pins
+Warning 86 -- Net FMC_DA10 has no output pins
+Warning 87 -- Net FMC_DA11 has no input pins
+Warning 88 -- Net FMC_DA11 has no output pins
+Warning 89 -- Net FMC_DA12 has no input pins
+Warning 90 -- Net FMC_DA12 has no output pins
+Warning 91 -- Net NET00001 has no input pins
+Warning 92 -- Net NET00001 has no output pins
+Warning 93 -- Net GNDP has no output pins
+Warning 94 -- Net RES1 has no input pins
+Warning 95 -- Net RES1 has no output pins
+Warning 96 -- Net UART3_TX has no output pins
+Warning 97 -- Bi pin on sheet:FPGA1 at mm (455.000, 55.000) connected to output
+ pin
+Warning 98 -- Net L_ADC0_MISO has no input pins
+Warning 99 -- Net ADC0_SCLK has no input pins
+Warning 100 -- Bi pin on sheet:MCU1 at mm (205.000,245.000) connected to output
+ pin
+Warning 101 -- Net UART3_RX has no input pins
+Warning 102 -- Net RES0 has no input pins
+Warning 103 -- Net RES0 has no output pins
+Warning 104 -- Net STM_RESET# has no input pins
+Warning 105 -- Net STM_RESET# has no output pins
+Warning 106 -- Net -5V_HV has no input pins
+Warning 107 -- Net -5V_HV has no output pins
+Warning 108 -- Net NET00036 has no input pins
+Warning 109 -- Net NET00036 has no output pins
+Warning 110 -- Net CONF_DONE has no input pins
+Warning 111 -- Net CONF_DONE has no output pins
+Warning 112 -- Net NET00022 has no input pins
+Warning 113 -- Net NET00022 has no output pins
+Warning 114 -- Net I2C2_SDA has no input pins
+Warning 115 -- Net I2C2_SDA has no output pins
+Warning 116 -- Net NSTATUS has no input pins
+Warning 117 -- Net NSTATUS has no output pins
+Warning 118 -- Net NCONFIG has no input pins
+Warning 119 -- Net NCONFIG has no output pins
+Warning 120 -- Net I2C2_SCL has no input pins
+Warning 121 -- Net I2C2_SCL has no output pins
+Warning 122 -- Net NET00005 has no input pins
+Warning 123 -- Net NET00005 has no output pins
+Warning 124 -- Net VREF_HV has no input pins
+Warning 125 -- Net NET00141 has no input pins
+Warning 126 -- Net NET00141 has no output pins
+Warning 127 -- Net GNDA_HV has no input pins
+Warning 128 -- Net GNDA_HV has no output pins
+Warning 129 -- Net STM_TRST has no input pins
+Warning 130 -- Net STM_TRST has no output pins
+Warning 131 -- Net STM_TDO has no input pins
+Warning 132 -- Net STM_TDO has no output pins
+Warning 133 -- Net STM_TDI has no input pins
+Warning 134 -- Net STM_TDI has no output pins
+Warning 135 -- Net STM_TCK has no input pins
+Warning 136 -- Net STM_TCK has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    3
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 137 -- Net STM_TMS has no input pins
+Warning 138 -- Net STM_TMS has no output pins
+Warning 139 -- Net ALT_TCK has no input pins
+Warning 140 -- Net ALT_TCK has no output pins
+Warning 141 -- Net ALT_TDO has no input pins
+Warning 142 -- Net ALT_TDO has no output pins
+Warning 143 -- Net ALT_TMS has no input pins
+Warning 144 -- Net ALT_TMS has no output pins
+Warning 145 -- Net ALT_TDI has no input pins
+Warning 146 -- Net ALT_TDI has no output pins
+Warning 147 -- Net NET00050 has no output pins
+Warning 148 -- Bi pin on sheet:FPGA1 at mm (375.000, 75.000) connected to outpu
+t pin
+Warning 149 -- Net L_PULT_A has no input pins
+Warning 150 -- Net RES2 has no input pins
+Warning 151 -- Net RES2 has no output pins
+Warning 152 -- Net NET00062 has no input pins
+Warning 153 -- Net NET00062 has no output pins
+Warning 154 -- Net NET00048 has no input pins
+Warning 155 -- Net NET00048 has no output pins
+Warning 156 -- Net X_KEY_INC has no input pins
+Warning 157 -- Net X_KEY_INC has no output pins
+Warning 158 -- Net NET00071 has no input pins
+Warning 159 -- Net NET00071 has no output pins
+Warning 160 -- Net NET00128 has no input pins
+Warning 161 -- Net NET00128 has no output pins
+Warning 162 -- Net NET00177 has no input pins
+Warning 163 -- Net NET00177 has no output pins
+Warning 164 -- Net NET00190 has no input pins
+Warning 165 -- Net NET00190 has no output pins
+Warning 166 -- Net L_PULT_SCLK has no output pins
+Warning 167 -- Net NET00159 has no input pins
+Warning 168 -- Net NET00159 has no output pins
+Warning 169 -- Net L_PULT_LOAD has no output pins
+Warning 170 -- Net NET00127 has no input pins
+Warning 171 -- Net NET00127 has no output pins
+Warning 172 -- Net NET00187 has no input pins
+Warning 173 -- Net NET00187 has no output pins
+Warning 174 -- Net NET00049 has no output pins
+Warning 175 -- Net NET00004 has no output pins
+Warning 176 -- Net HV- has no input pins
+Warning 177 -- Net HV- has no output pins
+Warning 178 -- Net NET00012 has no input pins
+Warning 179 -- Net NET00012 has no output pins
+Warning 180 -- Net L_PULT_SDO has no output pins
+Warning 181 -- Net NET00198 has no input pins
+Warning 182 -- Net NET00198 has no output pins
+Warning 183 -- Net CURRENT_2 has no input pins
+Warning 184 -- Net CURRENT_2 has no output pins
+Warning 185 -- Net ENC_A_0 has no output pins
+Warning 186 -- Net NET00044 has no input pins
+Warning 187 -- Net NET00044 has no output pins
+Warning 188 -- Net NET00229 has no input pins
+Warning 189 -- Net NET00229 has no output pins
+Warning 190 -- Net NET00310 has no output pins
+Warning 191 -- Net ENC_A_1 has no output pins
+Warning 192 -- Net ENC_A_2 has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    4
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 193 -- Bi pin on sheet:FPGA1 at mm (375.000,265.000) connected to outpu
+t pin
+Warning 194 -- Net L_PULT_SDI has no input pins
+Warning 195 -- Net X_DRUM_LED_0 has no input pins
+Warning 196 -- Net X_DRUM_LED_0 has no output pins
+Warning 197 -- Net X_DRUM_LED_1 has no input pins
+Warning 198 -- Net X_DRUM_LED_1 has no output pins
+Warning 199 -- Net X_DRUM_LED_2 has no input pins
+Warning 200 -- Net X_DRUM_LED_2 has no output pins
+Warning 201 -- Net X_DRUM_LED_3 has no input pins
+Warning 202 -- Net X_DRUM_LED_3 has no output pins
+Warning 203 -- Net X_DRUM_LED_4 has no input pins
+Warning 204 -- Net X_DRUM_LED_4 has no output pins
+Warning 205 -- Bi pin on sheet:FPGA1 at mm (455.000, 50.000) connected to outpu
+t pin
+Warning 206 -- Net L_ADC1_MISO has no input pins
+Warning 207 -- Net ENC_B_0 has no output pins
+Warning 208 -- Net ENC_B_1 has no output pins
+Warning 209 -- Net ENC_B_2 has no output pins
+Warning 210 -- Net X_DRUM_LED_5 has no input pins
+Warning 211 -- Net X_DRUM_LED_5 has no output pins
+Warning 212 -- Net X_DRUM_LED_6 has no input pins
+Warning 213 -- Net X_DRUM_LED_6 has no output pins
+Warning 214 -- Net X_DRUM_LED_7 has no input pins
+Warning 215 -- Net X_DRUM_LED_7 has no output pins
+Warning 216 -- Net X_DRUM_ENA_LED has no input pins
+Warning 217 -- Net X_DRUM_ENA_LED has no output pins
+Warning 218 -- Net X_PUMP_ENA_LED has no input pins
+Warning 219 -- Net X_PUMP_ENA_LED has no output pins
+Warning 220 -- Net X_WIRE_CTRL_LED has no input pins
+Warning 221 -- Net X_WIRE_CTRL_LED has no output pins
+Warning 222 -- Net NET00336 has no input pins
+Warning 223 -- Net ENC_Z_0 has no output pins
+Warning 224 -- Net ENC_Z_1 has no output pins
+Warning 225 -- Net ENC_Z_2 has no output pins
+Warning 226 -- Net NET00337 has no input pins
+Warning 227 -- Net NET00339 has no input pins
+Warning 228 -- Net NET00340 has no input pins
+Warning 229 -- Net NET00341 has no input pins
+Warning 230 -- Net NET00342 has no input pins
+Warning 231 -- Net NET00216 has no input pins
+Warning 232 -- Net NET00216 has no output pins
+Warning 233 -- Net NET00007 has no input pins
+Warning 234 -- Net NET00007 has no output pins
+Warning 235 -- Net L_ADC_~CS has no output pins
+Warning 236 -- Net NET00343 has no input pins
+Warning 237 -- Net CURRENT_3 has no input pins
+Warning 238 -- Net CURRENT_3 has no output pins
+Warning 239 -- Net GNDAA has no input pins
+Warning 240 -- Net GNDAA has no output pins
+Warning 241 -- Net 12VP has no input pins
+Warning 242 -- Net 12VP has no output pins
+Warning 243 -- Net 12V_EXT has no input pins
+Warning 244 -- Net 12V_EXT has no output pins
+Warning 245 -- Net GND_12V_EXT has no input pins
+Warning 246 -- Net GND_12V_EXT has no output pins
+Warning 247 -- Net 5V_EXT has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    5
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 248 -- Net 5V_EXT has no output pins
+Warning 249 -- Net GND_5V_EXT has no input pins
+Warning 250 -- Net GND_5V_EXT has no output pins
+Warning 251 -- Net X_KEY_DEC has no input pins
+Warning 252 -- Net X_KEY_DEC has no output pins
+Warning 253 -- Net X_KEY_DRUM has no input pins
+Warning 254 -- Net X_KEY_DRUM has no output pins
+Warning 255 -- Net X_KEY_PUMP has no input pins
+Warning 256 -- Net X_KEY_PUMP has no output pins
+Warning 257 -- Net NET00309 has no output pins
+Warning 258 -- Net X_KEY_WIRE has no input pins
+Warning 259 -- Net X_KEY_WIRE has no output pins
+Warning 260 -- Net STM_LED_1 has no input pins
+Warning 261 -- Net STM_LED_1 has no output pins
+Warning 262 -- Net NET00018 has no input pins
+Warning 263 -- Net NET00018 has no output pins
+Warning 264 -- Net 12V_HV- has no input pins
+Warning 265 -- Net 12V_HV- has no output pins
+Warning 266 -- Net SHUNT- has no input pins
+Warning 267 -- Net SHUNT- has no output pins
+Warning 268 -- Net HV+ has no input pins
+Warning 269 -- Net HV+ has no output pins
+Warning 270 -- Net SHUNT+ has no input pins
+Warning 271 -- Net SHUNT+ has no output pins
+Warning 272 -- Net QSPI_CLK has no input pins
+Warning 273 -- Net QSPI_CLK has no output pins
+Warning 274 -- Net NET00319 has no input pins
+Warning 275 -- Net NET00319 has no output pins
+Warning 276 -- Net NET00382 has no input pins
+Warning 277 -- Net NET00383 has no input pins
+Warning 278 -- Net NET00384 has no input pins
+Warning 279 -- Net NET00385 has no input pins
+Warning 280 -- Net UART1_TX has no input pins
+Warning 281 -- Net UART1_TX has no output pins
+Warning 282 -- Net NET00142 has no input pins
+Warning 283 -- Net NET00142 has no output pins
+Warning 284 -- Net VBAT has no input pins
+Warning 285 -- Net VBAT has no output pins
+Warning 286 -- Net UART2_DE has no output pins
+Warning 287 -- Net NET00331 has no input pins
+Warning 288 -- Net NET00331 has no output pins
+Warning 289 -- Net X_STM_TDI has no input pins
+Warning 290 -- Net X_STM_TDI has no output pins
+Warning 291 -- Net X_IN_3 has no input pins
+Warning 292 -- Net X_IN_3 has no output pins
+Warning 293 -- Net NET00217 has no input pins
+Warning 294 -- Net NET00217 has no output pins
+Warning 295 -- Net X_STM_TMS has no input pins
+Warning 296 -- Net X_STM_TMS has no output pins
+Warning 297 -- Net X_STM_TCK has no input pins
+Warning 298 -- Net X_STM_TCK has no output pins
+Warning 299 -- Net ADC3_IN4 has no input pins
+Warning 300 -- Net ADC3_IN4 has no output pins
+Warning 301 -- Net X_STM_TDO has no input pins
+Warning 302 -- Net X_STM_TDO has no output pins
+Warning 303 -- Net NET00002 has no output pins
+Warning 304 -- Net NET00334 has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    6
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 305 -- Net NET00334 has no output pins
+Warning 306 -- Net ADC3_IN9 has no input pins
+Warning 307 -- Net ADC3_IN9 has no output pins
+Warning 308 -- Net PULT_GND has no input pins
+Warning 309 -- Net PULT_GND has no output pins
+Warning 310 -- Net NET00344 has no input pins
+Warning 311 -- Net NET00345 has no input pins
+Warning 312 -- Net NET00346 has no input pins
+Warning 313 -- Net UART3_RTS has no output pins
+Warning 314 -- Net USB_FS_VBUS has no input pins
+Warning 315 -- Net USB_FS_VBUS has no output pins
+Warning 316 -- Net NET00131 has no input pins
+Warning 317 -- Net NET00131 has no output pins
+Warning 318 -- Net USB_FS_DM has no input pins
+Warning 319 -- Net USB_FS_DM has no output pins
+Warning 320 -- Net USB_FS_DP has no input pins
+Warning 321 -- Net USB_FS_DP has no output pins
+Warning 322 -- Net ADC5 has no input pins
+Warning 323 -- Net ADC2 has no input pins
+Warning 324 -- Net ADC2 has no output pins
+Warning 325 -- Net X_IN_1 has no input pins
+Warning 326 -- Net X_IN_1 has no output pins
+Warning 327 -- Net 12V_HV has no input pins
+Warning 328 -- Net 12V_HV has no output pins
+Warning 329 -- Net ADC0 has no input pins
+Warning 330 -- Net L_ADC_SCLK has no input pins
+Warning 331 -- Net L_ADC_SCLK has no output pins
+Warning 332 -- Net 5VD has no input pins
+Warning 333 -- Net 5VD has no output pins
+Warning 334 -- Bi pin on sheet:FPGA1 at mm (375.000,365.000) connected to outpu
+t pin
+Warning 335 -- Net L_IN_0 has no input pins
+Warning 336 -- Bi pin on sheet:FPGA1 at mm (375.000,360.000) connected to outpu
+t pin
+Warning 337 -- Net L_IN_1 has no input pins
+Warning 338 -- Net ADC4 has no input pins
+Warning 339 -- Net ADC4 has no output pins
+Warning 340 -- Bi pin on sheet:FPGA1 at mm (375.000,355.000) connected to outpu
+t pin
+Warning 341 -- Net L_IN_2 has no input pins
+Warning 342 -- Bi pin on sheet:FPGA1 at mm (375.000,350.000) connected to outpu
+t pin
+Warning 343 -- Net L_IN_3 has no input pins
+Warning 344 -- Net IN_0 has no output pins
+Warning 345 -- Net NET00158 has no input pins
+Warning 346 -- Net NET00158 has no output pins
+Warning 347 -- Net GNDA has no input pins
+Warning 348 -- Net GNDA has no output pins
+Warning 349 -- Net PULT_A_P has no input pins
+Warning 350 -- Net PULT_A_P has no output pins
+Warning 351 -- Net L_ADC_MOSI has no output pins
+Warning 352 -- Net NET00014 has no input pins
+Warning 353 -- Net NET00014 has no output pins
+Warning 354 -- Net NET00015 has no input pins
+Warning 355 -- Net NET00015 has no output pins
+Warning 356 -- Net 5VA has no output pins
+Warning 357 -- Net ADC_FB has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    7
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 358 -- Net ADC3 has no input pins
+Warning 359 -- Net ADC3 has no output pins
+Warning 360 -- Net NET00233 has no input pins
+Warning 361 -- Net NET00233 has no output pins
+Warning 362 -- Net WORKPIECE+ has no input pins
+Warning 363 -- Net WORKPIECE+ has no output pins
+Warning 364 -- Net NET00167 has no input pins
+Warning 365 -- Net NET00167 has no output pins
+Warning 366 -- Net QSPI_IO3 has no input pins
+Warning 367 -- Net QSPI_IO3 has no output pins
+Warning 368 -- Net QSPI_IO2 has no input pins
+Warning 369 -- Net QSPI_IO2 has no output pins
+Warning 370 -- Net NET00150 has no input pins
+Warning 371 -- Net NET00150 has no output pins
+Warning 372 -- Net QSPI_IO0 has no input pins
+Warning 373 -- Net QSPI_IO0 has no output pins
+Warning 374 -- Net QSPI_IO1 has no input pins
+Warning 375 -- Net QSPI_IO1 has no output pins
+Warning 376 -- Net WIRE- has no input pins
+Warning 377 -- Net WIRE- has no output pins
+Warning 378 -- Net NET00210 has no input pins
+Warning 379 -- Net NET00210 has no output pins
+Warning 380 -- Net NET00157 has no output pins
+Warning 381 -- Net NET00162 has no output pins
+Warning 382 -- Net NET00166 has no input pins
+Warning 383 -- Net NET00166 has no output pins
+Warning 384 -- Net NET00175 has no input pins
+Warning 385 -- Net NET00175 has no output pins
+Warning 386 -- Net NET00178 has no input pins
+Warning 387 -- Net NET00178 has no output pins
+Warning 388 -- Net NET00184 has no input pins
+Warning 389 -- Net NET00184 has no output pins
+Warning 390 -- Net NET00155 has no input pins
+Warning 391 -- Net NET00155 has no output pins
+Warning 392 -- Net NET00156 has no input pins
+Warning 393 -- Net NET00156 has no output pins
+Warning 394 -- Net RS232_RTS3 has no input pins
+Warning 395 -- Net RS232_TX3 has no input pins
+Warning 396 -- Net RS232_RX3 has no output pins
+Warning 397 -- Net KEY_INC has no output pins
+Warning 398 -- Net RS232_CTS3 has no output pins
+Warning 399 -- Net NET00364 has no input pins
+Warning 400 -- Net RLY_FWD has no input pins
+Warning 401 -- Net NET00365 has no input pins
+Warning 402 -- Net NET00232 has no input pins
+Warning 403 -- Net NET00232 has no output pins
+Warning 404 -- Net QSPI_NCS has no output pins
+Warning 405 -- Net NET00351 has no input pins
+Warning 406 -- Net NET00366 has no input pins
+Warning 407 -- Net WIDTH_2 has no input pins
+Warning 408 -- Net WIDTH_2 has no output pins
+Warning 409 -- Net NET00373 has no input pins
+Warning 410 -- Net WIDTH_3 has no input pins
+Warning 411 -- Net WIDTH_3 has no output pins
+Warning 412 -- Net WIDTH_4 has no input pins
+Warning 413 -- Net WIDTH_4 has no output pins
+Warning 414 -- Net WIDTH_5 has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    8
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 415 -- Net WIDTH_5 has no output pins
+Warning 416 -- Net WIDTH_6 has no input pins
+Warning 417 -- Net WIDTH_6 has no output pins
+Warning 418 -- Net WIDTH_7 has no input pins
+Warning 419 -- Net WIDTH_7 has no output pins
+Warning 420 -- Net RATIO_1 has no input pins
+Warning 421 -- Net RATIO_1 has no output pins
+Warning 422 -- Net WIDTH_0 has no input pins
+Warning 423 -- Net WIDTH_0 has no output pins
+Warning 424 -- Net RATIO_2 has no input pins
+Warning 425 -- Net RATIO_2 has no output pins
+Warning 426 -- Net RATIO_3 has no input pins
+Warning 427 -- Net RATIO_3 has no output pins
+Warning 428 -- Net RATIO_4 has no input pins
+Warning 429 -- Net RATIO_4 has no output pins
+Warning 430 -- Net RATIO_5 has no input pins
+Warning 431 -- Net RATIO_5 has no output pins
+Warning 432 -- Net RATIO_6 has no input pins
+Warning 433 -- Net RATIO_6 has no output pins
+Warning 434 -- Net RATIO_7 has no input pins
+Warning 435 -- Net RATIO_7 has no output pins
+Warning 436 -- Net RATIO_0 has no input pins
+Warning 437 -- Net RATIO_0 has no output pins
+Warning 438 -- Net NET00220 has no input pins
+Warning 439 -- Net NET00220 has no output pins
+Warning 440 -- Net NET00058 has no input pins
+Warning 441 -- Net NET00058 has no output pins
+Warning 442 -- Net L_~OE has no output pins
+Warning 443 -- Net NET00352 has no input pins
+Warning 444 -- Net WIDTH_1 has no input pins
+Warning 445 -- Net WIDTH_1 has no output pins
+Warning 446 -- Net PULT_A_N has no input pins
+Warning 447 -- Net PULT_A_N has no output pins
+Warning 448 -- Net L_GEN_SCLK has no output pins
+Warning 449 -- Net L_GEN_LOAD has no output pins
+Warning 450 -- Bi pin on sheet:MCU1 at mm (205.000,365.000) connected to output
+ pin
+Warning 451 -- Net UART2_RX has no input pins
+Warning 452 -- Net L_GEN_SDO has no output pins
+Warning 453 -- Net L_CURRENT_0 has no output pins
+Warning 454 -- Net NET00059 has no input pins
+Warning 455 -- Net NET00059 has no output pins
+Warning 456 -- Net NET00060 has no input pins
+Warning 457 -- Net NET00060 has no output pins
+Warning 458 -- Net NET00228 has no input pins
+Warning 459 -- Net NET00228 has no output pins
+Warning 460 -- Net L_CURRENT_1 has no output pins
+Warning 461 -- Net L_CURRENT_2 has no output pins
+Warning 462 -- Net L_CURRENT_3 has no output pins
+Warning 463 -- Net NET00209 has no input pins
+Warning 464 -- Net NET00209 has no output pins
+Warning 465 -- Net L_FWD has no output pins
+Warning 466 -- Net L_REV has no output pins
+Warning 467 -- Bi pin on sheet:FPGA1 at mm (455.000,235.000) connected to outpu
+t pin
+Warning 468 -- Net L_GEN_SDI has no input pins
+Warning 469 -- Net NET00111 has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page    9
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 470 -- Net KEY_DEC has no output pins
+Warning 471 -- Net L_HV_LVL has no output pins
+Warning 472 -- Net L_DRUM_VEL_0 has no output pins
+Warning 473 -- Net UART2_TX has no output pins
+Warning 474 -- Net L_DRUM_VEL_1 has no output pins
+Warning 475 -- Net L_DRUM_VEL_2 has no output pins
+Warning 476 -- Net L_PUMP_ENA has no output pins
+Warning 477 -- Net NET00234 has no input pins
+Warning 478 -- Net NET00234 has no output pins
+Warning 479 -- Net KEY_DRUM has no output pins
+Warning 480 -- Net KEY_PUMP has no output pins
+Warning 481 -- Net KEY_WIRE has no output pins
+Warning 482 -- Bi pin on sheet:MCU1 at mm (265.000,170.000) connected to output
+ pin
+Warning 483 -- Net L_KEY_INC has no input pins
+Warning 484 -- Bi pin on sheet:MCU1 at mm (265.000,165.000) connected to output
+ pin
+Warning 485 -- Net L_KEY_DEC has no input pins
+Warning 486 -- Bi pin on sheet:MCU1 at mm (265.000,160.000) connected to output
+ pin
+Warning 487 -- Net L_KEY_DRUM has no input pins
+Warning 488 -- Bi pin on sheet:MCU1 at mm (265.000,155.000) connected to output
+ pin
+Warning 489 -- Net L_KEY_PUMP has no input pins
+Warning 490 -- Bi pin on sheet:MCU1 at mm (265.000,150.000) connected to output
+ pin
+Warning 491 -- Net L_KEY_WIRE has no input pins
+Warning 492 -- Net NET00368 has no input pins
+Warning 493 -- Net NET00369 has no input pins
+Warning 494 -- Net NET00212 has no input pins
+Warning 495 -- Net NET00212 has no output pins
+Warning 496 -- Net NET00370 has no input pins
+Warning 497 -- Net NET00371 has no input pins
+Warning 498 -- Net NET00372 has no input pins
+Warning 499 -- Net NET00374 has no input pins
+Warning 500 -- Net NET00375 has no input pins
+Warning 501 -- Net NET00376 has no input pins
+Warning 502 -- Net NET00377 has no input pins
+Warning 503 -- Net NET00009 has no input pins
+Warning 504 -- Net NET00009 has no output pins
+Warning 505 -- Net NET00379 has no input pins
+Warning 506 -- Net NET00107 has no input pins
+Warning 507 -- Net NET00107 has no output pins
+Warning 508 -- Net NET00380 has no input pins
+Warning 509 -- Net NET00381 has no input pins
+Warning 510 -- Net NET00160 has no input pins
+Warning 511 -- Net NET00160 has no output pins
+Warning 512 -- Net ADC1 has no input pins
+Warning 513 -- Net NET00323 has no input pins
+Warning 514 -- Net NET00323 has no output pins
+Warning 515 -- Net NET00225 has no input pins
+Warning 516 -- Net NET00225 has no output pins
+Warning 517 -- Net NET00287 has no input pins
+Warning 518 -- Net NET00287 has no output pins
+Warning 519 -- Net UART6_DE has no output pins
+Warning 520 -- Net +5V_HV has no output pins
+Warning 521 -- Net NET00046 has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   10
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 522 -- Net NET00046 has no output pins
+Warning 523 -- Net ENC_5V has no input pins
+Warning 524 -- Net ENC_5V has no output pins
+Warning 525 -- Net ADC1_SCLK has no input pins
+Warning 526 -- Net NET00136 has no input pins
+Warning 527 -- Net NET00136 has no output pins
+Warning 528 -- Net NET00137 has no input pins
+Warning 529 -- Net NET00137 has no output pins
+Warning 530 -- Net NET00230 has no input pins
+Warning 531 -- Net NET00230 has no output pins
+Warning 532 -- Net NET00192 has no input pins
+Warning 533 -- Net NET00192 has no output pins
+Warning 534 -- Net NET00148 has no input pins
+Warning 535 -- Net NET00148 has no output pins
+Warning 536 -- Net VREF_2.5V has no input pins
+Warning 537 -- Net NET00125 has no output pins
+Warning 538 -- Net NET00151 has no input pins
+Warning 539 -- Net NET00151 has no output pins
+Warning 540 -- Bi pin on sheet:MCU1 at mm (265.000,135.000) connected to output
+ pin
+Warning 541 -- Net UART6_RX has no input pins
+Warning 542 -- Net NET00053 has no input pins
+Warning 543 -- Net NET00053 has no output pins
+Warning 544 -- Net NET00221 has no input pins
+Warning 545 -- Net NET00221 has no output pins
+Warning 546 -- Net NET00243 has no input pins
+Warning 547 -- Net NET00243 has no output pins
+Warning 548 -- Net 0V_HV has no input pins
+Warning 549 -- Net 0V_HV has no output pins
+Warning 550 -- Net 5VP has no output pins
+Warning 551 -- Net NET00135 has no output pins
+Warning 552 -- Net NET00218 has no input pins
+Warning 553 -- Net NET00218 has no output pins
+Warning 554 -- Net 12VA has no input pins
+Warning 555 -- Net 12VA has no output pins
+Warning 556 -- Net PULT_TX_P has no input pins
+Warning 557 -- Net PULT_TX_P has no output pins
+Warning 558 -- Net NET00214 has no input pins
+Warning 559 -- Net NET00214 has no output pins
+Warning 560 -- Net NET00219 has no input pins
+Warning 561 -- Net NET00219 has no output pins
+Warning 562 -- Net NET00154 has no input pins
+Warning 563 -- Net NET00154 has no output pins
+Warning 564 -- Net NET00143 has no output pins
+Warning 565 -- Net NET00185 has no input pins
+Warning 566 -- Net NET00185 has no output pins
+Warning 567 -- Net RLY_REV has no input pins
+Warning 568 -- Net RLY_DRUM_VEL_0 has no input pins
+Warning 569 -- Net RLY_DRUM_VEL_1 has no input pins
+Warning 570 -- Net RLY_DRUM_VEL_2 has no input pins
+Warning 571 -- Net NET00224 has no input pins
+Warning 572 -- Net NET00224 has no output pins
+Warning 573 -- Net NET00226 has no input pins
+Warning 574 -- Net NET00226 has no output pins
+Warning 575 -- Net NET00231 has no input pins
+Warning 576 -- Net NET00231 has no output pins
+Warning 577 -- Net NET00235 has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   11
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 578 -- Net NET00235 has no output pins
+Warning 579 -- Net NET00070 has no input pins
+Warning 580 -- Net NET00070 has no output pins
+Warning 581 -- Net KB_5V has no input pins
+Warning 582 -- Net KB_5V has no output pins
+Warning 583 -- Net X_FWD has no input pins
+Warning 584 -- Net X_FWD has no output pins
+Warning 585 -- Net X_IN_5 has no input pins
+Warning 586 -- Net X_IN_5 has no output pins
+Warning 587 -- Net X_IN_6 has no input pins
+Warning 588 -- Net X_IN_6 has no output pins
+Warning 589 -- Net X_IN_7 has no input pins
+Warning 590 -- Net X_IN_7 has no output pins
+Warning 591 -- Net X_DRUM_VEL_0 has no input pins
+Warning 592 -- Net X_DRUM_VEL_0 has no output pins
+Warning 593 -- Net NET00051 has no input pins
+Warning 594 -- Net NET00051 has no output pins
+Warning 595 -- Net X_REV has no input pins
+Warning 596 -- Net X_REV has no output pins
+Warning 597 -- Net X_DRUM_VEL_1 has no input pins
+Warning 598 -- Net X_DRUM_VEL_1 has no output pins
+Warning 599 -- Net X_DRUM_VEL_2 has no input pins
+Warning 600 -- Net X_DRUM_VEL_2 has no output pins
+Warning 601 -- Net NET00236 has no input pins
+Warning 602 -- Net NET00236 has no output pins
+Warning 603 -- Net RLY_HV_ENA has no input pins
+Warning 604 -- Net RLY_PUMP_ENA has no input pins
+Warning 605 -- Net NET00195 has no input pins
+Warning 606 -- Net NET00195 has no output pins
+Warning 607 -- Bi pin on sheet:FPGA1 at mm (375.000,345.000) connected to outpu
+t pin
+Warning 608 -- Net L_IN_4 has no input pins
+Warning 609 -- Bi pin on sheet:FPGA1 at mm (375.000,340.000) connected to outpu
+t pin
+Warning 610 -- Net L_IN_5 has no input pins
+Warning 611 -- Net RLY_HV_LVL has no input pins
+Warning 612 -- Net DRUM_COM has no input pins
+Warning 613 -- Net DRUM_COM has no output pins
+Warning 614 -- Net NET00289 has no input pins
+Warning 615 -- Net NET00289 has no output pins
+Warning 616 -- Net NET00205 has no input pins
+Warning 617 -- Net NET00205 has no output pins
+Warning 618 -- Net NET00064 has no input pins
+Warning 619 -- Net NET00064 has no output pins
+Warning 620 -- Net GNDD has no output pins
+Warning 621 -- Net OUT_COM has no input pins
+Warning 622 -- Net OUT_COM has no output pins
+Warning 623 -- Net RLY_ESTOP has no input pins
+Warning 624 -- Net 3.3VD has no output pins
+Warning 625 -- Net NET00207 has no input pins
+Warning 626 -- Net NET00207 has no output pins
+Warning 627 -- Net NET00248 has no input pins
+Warning 628 -- Net NET00248 has no output pins
+Warning 629 -- Net X_HV_LVL has no input pins
+Warning 630 -- Net X_HV_LVL has no output pins
+Warning 631 -- Net X_HV_ENA has no input pins
+Warning 632 -- Net X_HV_ENA has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   12
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 633 -- Net X_PUMP_ENA has no input pins
+Warning 634 -- Net X_PUMP_ENA has no output pins
+Warning 635 -- Net X_IN_2 has no input pins
+Warning 636 -- Net X_IN_2 has no output pins
+Warning 637 -- Net X_IN_4 has no input pins
+Warning 638 -- Net X_IN_4 has no output pins
+Warning 639 -- Net X_IN_0 has no input pins
+Warning 640 -- Net X_IN_0 has no output pins
+Warning 641 -- Net NET00088 has no input pins
+Warning 642 -- Net NET00088 has no output pins
+Warning 643 -- Net NET00089 has no input pins
+Warning 644 -- Net NET00089 has no output pins
+Warning 645 -- Net NET00072 has no input pins
+Warning 646 -- Net NET00072 has no output pins
+Warning 647 -- Net NET00056 has no input pins
+Warning 648 -- Net NET00056 has no output pins
+Warning 649 -- Net NET00057 has no input pins
+Warning 650 -- Net NET00057 has no output pins
+Warning 651 -- Net NET00090 has no input pins
+Warning 652 -- Net NET00090 has no output pins
+Warning 653 -- Net IN_1 has no output pins
+Warning 654 -- Net IN_2 has no output pins
+Warning 655 -- Net NET00076 has no input pins
+Warning 656 -- Net NET00076 has no output pins
+Warning 657 -- Net NET00093 has no input pins
+Warning 658 -- Net NET00093 has no output pins
+Warning 659 -- Net IN_3 has no output pins
+Warning 660 -- Net NET00079 has no input pins
+Warning 661 -- Net NET00079 has no output pins
+Warning 662 -- Net IN_4 has no output pins
+Warning 663 -- Net NET00081 has no input pins
+Warning 664 -- Net NET00081 has no output pins
+Warning 665 -- Net NET00082 has no input pins
+Warning 666 -- Net NET00082 has no output pins
+Warning 667 -- Net IN_5 has no output pins
+Warning 668 -- Net IN_6 has no output pins
+Warning 669 -- Net IN_7 has no output pins
+Warning 670 -- Bi pin on sheet:FPGA1 at mm (375.000,335.000) connected to outpu
+t pin
+Warning 671 -- Net L_IN_6 has no input pins
+Warning 672 -- Bi pin on sheet:FPGA1 at mm (375.000,330.000) connected to outpu
+t pin
+Warning 673 -- Net L_IN_7 has no input pins
+Warning 674 -- Net NET00132 has no input pins
+Warning 675 -- Net NET00132 has no output pins
+Warning 676 -- Net NET00133 has no input pins
+Warning 677 -- Net NET00133 has no output pins
+Warning 678 -- Net NET00139 has no input pins
+Warning 679 -- Net NET00139 has no output pins
+Warning 680 -- Net -220V has no input pins
+Warning 681 -- Net -220V has no output pins
+Warning 682 -- Net NET00194 has no input pins
+Warning 683 -- Net NET00194 has no output pins
+Warning 684 -- Net +220V has no input pins
+Warning 685 -- Net +220V has no output pins
+Warning 686 -- Net NET00145 has no input pins
+Warning 687 -- Net NET00145 has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   13
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 688 -- Net NET00109 has no input pins
+Warning 689 -- Net NET00109 has no output pins
+Warning 690 -- Net NET00110 has no input pins
+Warning 691 -- Net NET00110 has no output pins
+Warning 692 -- Net NET00146 has no input pins
+Warning 693 -- Net NET00146 has no output pins
+Warning 694 -- Net NET00112 has no input pins
+Warning 695 -- Net NET00112 has no output pins
+Warning 696 -- Net NET00113 has no input pins
+Warning 697 -- Net NET00113 has no output pins
+Warning 698 -- Net NET00115 has no input pins
+Warning 699 -- Net NET00115 has no output pins
+Warning 700 -- Net NET00193 has no input pins
+Warning 701 -- Net NET00193 has no output pins
+Warning 702 -- Net OK_220V_P has no input pins
+Warning 703 -- Net OK_220V_P has no output pins
+Warning 704 -- Net OK_220V has no output pins
+Warning 705 -- Net NET00182 has no input pins
+Warning 706 -- Net NET00182 has no output pins
+Warning 707 -- Bi pin on sheet:FPGA1 at mm (375.000,290.000) connected to outpu
+t pin
+Warning 708 -- Bi pin on sheet:MCU1 at mm (265.000,180.000) connected to output
+ pin
+Warning 709 -- Net L_OK_220V has no input pins
+Warning 710 -- Net OK_220V_N has no input pins
+Warning 711 -- Net OK_220V_N has no output pins
+Warning 712 -- Net L_HV_ENA has no output pins
+Warning 713 -- Net NET00172 has no input pins
+Warning 714 -- Net NET00172 has no output pins
+Warning 715 -- Net NET00171 has no input pins
+Warning 716 -- Net NET00171 has no output pins
+Warning 717 -- Bi pin on sheet:FPGA1 at mm (375.000,310.000) connected to outpu
+t pin
+Warning 718 -- Net L_WIRE_BREAK has no input pins
+Warning 719 -- Net NET00126 has no input pins
+Warning 720 -- Net NET00126 has no output pins
+Warning 721 -- Net NET00173 has no input pins
+Warning 722 -- Net NET00173 has no output pins
+Warning 723 -- Net NET00174 has no input pins
+Warning 724 -- Net NET00174 has no output pins
+Warning 725 -- Net ALT_IRQ has no input pins
+Warning 726 -- Net ALT_IRQ has no output pins
+Warning 727 -- Net WIRE_BREAK has no output pins
+Warning 728 -- Net NET00179 has no input pins
+Warning 729 -- Net NET00179 has no output pins
+Warning 730 -- Net NET00180 has no input pins
+Warning 731 -- Net NET00180 has no output pins
+Warning 732 -- Net NET00181 has no input pins
+Warning 733 -- Net NET00181 has no output pins
+Warning 734 -- Net NET00183 has no input pins
+Warning 735 -- Net NET00183 has no output pins
+Warning 736 -- Net L_ESTOP has no output pins
+Warning 737 -- Net L_X_1 has no output pins
+Warning 738 -- Net NET00067 has no input pins
+Warning 739 -- Net NET00067 has no output pins
+Warning 740 -- Net NET00227 has no output pins
+Warning 741 -- Net L_X_2 has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   14
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 742 -- Net L_X_3 has no output pins
+Warning 743 -- Net L_X_4 has no output pins
+Warning 744 -- Net L_U_2 has no output pins
+Warning 745 -- Net L_Y_1 has no output pins
+Warning 746 -- Net L_Y_2 has no output pins
+Warning 747 -- Net L_Y_3 has no output pins
+Warning 748 -- Net L_Y_4 has no output pins
+Warning 749 -- Net L_V_0 has no output pins
+Warning 750 -- Net L_V_1 has no output pins
+Warning 751 -- Net L_V_2 has no output pins
+Warning 752 -- Net L_Y_0 has no output pins
+Warning 753 -- Net L_U_0 has no output pins
+Warning 754 -- Net L_U_1 has no output pins
+Warning 755 -- Net OPT_X_1 has no input pins
+Warning 756 -- Net L_X_0 has no output pins
+Warning 757 -- Net OPT_X_2 has no input pins
+Warning 758 -- Net OPT_X_3 has no input pins
+Warning 759 -- Net OPT_X_4 has no input pins
+Warning 760 -- Net OPT_U_0 has no input pins
+Warning 761 -- Net OPT_U_2 has no input pins
+Warning 762 -- Net OPT_U_1 has no input pins
+Warning 763 -- Net OPT_Y_0 has no input pins
+Warning 764 -- Net NET00026 has no input pins
+Warning 765 -- Net NET00026 has no output pins
+Warning 766 -- Net M_PWR has no input pins
+Warning 767 -- Net M_PWR has no output pins
+Warning 768 -- Net X_0 has no input pins
+Warning 769 -- Net X_0 has no output pins
+Warning 770 -- Net OPT_X_0 has no input pins
+Warning 771 -- Net M_GND has no input pins
+Warning 772 -- Net M_GND has no output pins
+Warning 773 -- Net NET00039 has no input pins
+Warning 774 -- Net NET00039 has no output pins
+Warning 775 -- Net NET00047 has no input pins
+Warning 776 -- Net NET00047 has no output pins
+Warning 777 -- Net NET00054 has no input pins
+Warning 778 -- Net NET00054 has no output pins
+Warning 779 -- Net NET00068 has no input pins
+Warning 780 -- Net NET00068 has no output pins
+Warning 781 -- Net NET00065 has no input pins
+Warning 782 -- Net NET00065 has no output pins
+Warning 783 -- Net NET00069 has no input pins
+Warning 784 -- Net NET00069 has no output pins
+Warning 785 -- Net NET00075 has no input pins
+Warning 786 -- Net NET00075 has no output pins
+Warning 787 -- Net NET00074 has no input pins
+Warning 788 -- Net NET00074 has no output pins
+Warning 789 -- Net NET00083 has no input pins
+Warning 790 -- Net NET00083 has no output pins
+Warning 791 -- Net NET00080 has no input pins
+Warning 792 -- Net NET00080 has no output pins
+Warning 793 -- Net NET00087 has no input pins
+Warning 794 -- Net NET00087 has no output pins
+Warning 795 -- Net NET00084 has no input pins
+Warning 796 -- Net NET00084 has no output pins
+Warning 797 -- Net NET00096 has no input pins
+Warning 798 -- Net NET00096 has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   15
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 799 -- Net NET00086 has no input pins
+Warning 800 -- Net NET00086 has no output pins
+Warning 801 -- Net NET00097 has no input pins
+Warning 802 -- Net NET00097 has no output pins
+Warning 803 -- Net NET00098 has no input pins
+Warning 804 -- Net NET00098 has no output pins
+Warning 805 -- Net NET00095 has no input pins
+Warning 806 -- Net NET00095 has no output pins
+Warning 807 -- Net NET00099 has no input pins
+Warning 808 -- Net NET00099 has no output pins
+Warning 809 -- Net NET00100 has no input pins
+Warning 810 -- Net NET00100 has no output pins
+Warning 811 -- Net NET00101 has no input pins
+Warning 812 -- Net NET00101 has no output pins
+Warning 813 -- Net NET00102 has no input pins
+Warning 814 -- Net NET00102 has no output pins
+Warning 815 -- Net NET00103 has no input pins
+Warning 816 -- Net NET00103 has no output pins
+Warning 817 -- Net OPT_Y_1 has no input pins
+Warning 818 -- Net NET00066 has no input pins
+Warning 819 -- Net NET00066 has no output pins
+Warning 820 -- Net OPT_Y_2 has no input pins
+Warning 821 -- Net NET00061 has no input pins
+Warning 822 -- Net NET00061 has no output pins
+Warning 823 -- Net NET00045 has no input pins
+Warning 824 -- Net NET00045 has no output pins
+Warning 825 -- Net OPT_Y_3 has no input pins
+Warning 826 -- Net NET00034 has no input pins
+Warning 827 -- Net NET00034 has no output pins
+Warning 828 -- Net OPT_Y_4 has no input pins
+Warning 829 -- Net NET00035 has no input pins
+Warning 830 -- Net NET00035 has no output pins
+Warning 831 -- Net OPT_V_0 has no input pins
+Warning 832 -- Net NET00031 has no input pins
+Warning 833 -- Net NET00031 has no output pins
+Warning 834 -- Net OPT_V_1 has no input pins
+Warning 835 -- Net NET00020 has no input pins
+Warning 836 -- Net NET00020 has no output pins
+Warning 837 -- Net OPT_V_2 has no input pins
+Warning 838 -- Net NET00013 has no input pins
+Warning 839 -- Net NET00013 has no output pins
+Warning 840 -- Net X_1 has no input pins
+Warning 841 -- Net X_1 has no output pins
+Warning 842 -- Net X_4 has no input pins
+Warning 843 -- Net X_4 has no output pins
+Warning 844 -- Net U_2 has no input pins
+Warning 845 -- Net U_2 has no output pins
+Warning 846 -- Net X_2 has no input pins
+Warning 847 -- Net X_2 has no output pins
+Warning 848 -- Net X_3 has no input pins
+Warning 849 -- Net X_3 has no output pins
+Warning 850 -- Net U_0 has no input pins
+Warning 851 -- Net U_0 has no output pins
+Warning 852 -- Net Y_0 has no input pins
+Warning 853 -- Net Y_0 has no output pins
+Warning 854 -- Net Y_1 has no input pins
+Warning 855 -- Net Y_1 has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   16
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 856 -- Net Y_2 has no input pins
+Warning 857 -- Net Y_2 has no output pins
+Warning 858 -- Net Y_4 has no input pins
+Warning 859 -- Net Y_4 has no output pins
+Warning 860 -- Net V_2 has no input pins
+Warning 861 -- Net V_2 has no output pins
+Warning 862 -- Net Y_3 has no input pins
+Warning 863 -- Net Y_3 has no output pins
+Warning 864 -- Net V_0 has no input pins
+Warning 865 -- Net V_0 has no output pins
+Warning 866 -- Net V_1 has no input pins
+Warning 867 -- Net V_1 has no output pins
+Warning 868 -- Net PULT_TX_N has no input pins
+Warning 869 -- Net PULT_TX_N has no output pins
+Warning 870 -- Net NET00222 has no input pins
+Warning 871 -- Net NET00222 has no output pins
+Warning 872 -- Net U_1 has no input pins
+Warning 873 -- Net U_1 has no output pins
+Warning 874 -- Net NET00237 has no input pins
+Warning 875 -- Net NET00237 has no output pins
+Warning 876 -- Net PULT_B_P has no input pins
+Warning 877 -- Net PULT_B_P has no output pins
+Warning 878 -- Net NET00238 has no input pins
+Warning 879 -- Net NET00238 has no output pins
+Warning 880 -- Net NET00033 has no input pins
+Warning 881 -- Net NET00033 has no output pins
+Warning 882 -- Net NET00325 has no input pins
+Warning 883 -- Net NET00325 has no output pins
+Warning 884 -- Net NET00043 has no input pins
+Warning 885 -- Net NET00006 has no output pins
+Warning 886 -- Net NET00008 has no output pins
+Warning 887 -- Net NET00010 has no output pins
+Warning 888 -- Net PULT_5V has no input pins
+Warning 889 -- Net PULT_5V has no output pins
+Warning 890 -- Net NET00186 has no input pins
+Warning 891 -- Net NET00188 has no input pins
+Warning 892 -- Net NET00188 has no output pins
+Warning 893 -- Net NET00199 has no input pins
+Warning 894 -- Net NET00199 has no output pins
+Warning 895 -- Net PULT_A has no output pins
+Warning 896 -- Net PULT_B_N has no input pins
+Warning 897 -- Net PULT_B_N has no output pins
+Warning 898 -- Net ENC_GND has no input pins
+Warning 899 -- Net ENC_GND has no output pins
+Warning 900 -- Net PULT_RX_P has no input pins
+Warning 901 -- Net PULT_RX_P has no output pins
+Warning 902 -- Net NET00197 has no input pins
+Warning 903 -- Net NET00197 has no output pins
+Warning 904 -- Net NET00037 has no input pins
+Warning 905 -- Net NET00037 has no output pins
+Warning 906 -- Net NET00040 has no input pins
+Warning 907 -- Net NET00040 has no output pins
+Warning 908 -- Net PULT_RX_N has no input pins
+Warning 909 -- Net PULT_RX_N has no output pins
+Warning 910 -- Bi pin on sheet:FPGA1 at mm (375.000, 70.000) connected to outpu
+t pin
+Warning 911 -- Net L_PULT_B has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   17
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 912 -- Net RES3 has no input pins
+Warning 913 -- Net RES3 has no output pins
+Warning 914 -- Net NET00189 has no output pins
+Warning 915 -- Net NET00191 has no output pins
+Warning 916 -- Net NET00196 has no output pins
+Warning 917 -- Net NET00326 has no input pins
+Warning 918 -- Net NET00326 has no output pins
+Warning 919 -- Net KB_GND has no input pins
+Warning 920 -- Net KB_GND has no output pins
+Warning 921 -- Net NET00329 has no input pins
+Warning 922 -- Net NET00329 has no output pins
+Warning 923 -- Net NET00203 has no input pins
+Warning 924 -- Net NET00203 has no output pins
+Warning 925 -- Net NET00204 has no input pins
+Warning 926 -- Net NET00204 has no output pins
+Warning 927 -- Net NET00206 has no output pins
+Warning 928 -- Net UART6_TX has no output pins
+Warning 929 -- Net NET00032 has no input pins
+Warning 930 -- Net KB_RS485_P has no input pins
+Warning 931 -- Net KB_RS485_P has no output pins
+Warning 932 -- Net NET00297 has no input pins
+Warning 933 -- Net NET00297 has no output pins
+Warning 934 -- Net NET00298 has no input pins
+Warning 935 -- Net NET00298 has no output pins
+Warning 936 -- Net NET00299 has no output pins
+Warning 937 -- Net NET00038 has no input pins
+Warning 938 -- Net NET00301 has no output pins
+Warning 939 -- Net NET00302 has no output pins
+Warning 940 -- Net CURRENT_4 has no input pins
+Warning 941 -- Net CURRENT_4 has no output pins
+Warning 942 -- Net CURRENT_5 has no input pins
+Warning 943 -- Net CURRENT_5 has no output pins
+Warning 944 -- Net KB_RS485_N has no input pins
+Warning 945 -- Net KB_RS485_N has no output pins
+Warning 946 -- Net NET00019 has no input pins
+Warning 947 -- Net NET00019 has no output pins
+Warning 948 -- Net NET00259 has no output pins
+Warning 949 -- Net NET00307 has no input pins
+Warning 950 -- Net NET00307 has no output pins
+Warning 951 -- Net NET00308 has no input pins
+Warning 952 -- Net NET00023 has no input pins
+Warning 953 -- Net NET00023 has no output pins
+Warning 954 -- Net NET00024 has no input pins
+Warning 955 -- Net NET00024 has no output pins
+Warning 956 -- Net NET00025 has no input pins
+Warning 957 -- Net NET00025 has no output pins
+Warning 958 -- Net NET00029 has no input pins
+Warning 959 -- Net NET00029 has no output pins
+Warning 960 -- Net NET00030 has no input pins
+Warning 961 -- Net NET00030 has no output pins
+Warning 962 -- Net NET00042 has no input pins
+Warning 963 -- Net NET00042 has no output pins
+Warning 964 -- Net ENC_A_0_P has no input pins
+Warning 965 -- Net ENC_A_0_P has no output pins
+Warning 966 -- Net ECN_A_0_N has no input pins
+Warning 967 -- Net ECN_A_0_N has no output pins
+Warning 968 -- Net ENC_Z_0_P has no input pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   18
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 969 -- Net ENC_Z_0_P has no output pins
+Warning 970 -- Net ENC_B_0_P has no input pins
+Warning 971 -- Net ENC_B_0_P has no output pins
+Warning 972 -- Net ECN_B_0_N has no input pins
+Warning 973 -- Net ECN_B_0_N has no output pins
+Warning 974 -- Net ECN_Z_0_N has no input pins
+Warning 975 -- Net ECN_Z_0_N has no output pins
+Warning 976 -- Net NET00052 has no input pins
+Warning 977 -- Net NET00052 has no output pins
+Warning 978 -- Net NET00055 has no input pins
+Warning 979 -- Net NET00055 has no output pins
+Warning 980 -- Net NET00073 has no input pins
+Warning 981 -- Net NET00073 has no output pins
+Warning 982 -- Net NET00140 has no input pins
+Warning 983 -- Net NET00140 has no output pins
+Warning 984 -- Net NET00078 has no input pins
+Warning 985 -- Net NET00078 has no output pins
+Warning 986 -- Net NET00144 has no input pins
+Warning 987 -- Net NET00144 has no output pins
+Warning 988 -- Net NET00085 has no input pins
+Warning 989 -- Net NET00085 has no output pins
+Warning 990 -- Net NET00091 has no input pins
+Warning 991 -- Net NET00091 has no output pins
+Warning 992 -- Net NET00092 has no input pins
+Warning 993 -- Net NET00092 has no output pins
+Warning 994 -- Net ENC_A_1_P has no input pins
+Warning 995 -- Net ENC_A_1_P has no output pins
+Warning 996 -- Net NET00161 has no input pins
+Warning 997 -- Net NET00161 has no output pins
+Warning 998 -- Net ECN_A_1_N has no input pins
+Warning 999 -- Net ECN_A_1_N has no output pins
+Warning 1000 -- Net NET00114 has no input pins
+Warning 1001 -- Net NET00114 has no output pins
+Warning 1002 -- Net NET00117 has no input pins
+Warning 1003 -- Net NET00117 has no output pins
+Warning 1004 -- Net NET00119 has no input pins
+Warning 1005 -- Net NET00119 has no output pins
+Warning 1006 -- Net NET00121 has no input pins
+Warning 1007 -- Net NET00121 has no output pins
+Warning 1008 -- Net ENC_B_1_P has no input pins
+Warning 1009 -- Net ENC_B_1_P has no output pins
+Warning 1010 -- Net NET00164 has no input pins
+Warning 1011 -- Net NET00164 has no output pins
+Warning 1012 -- Net NET00165 has no input pins
+Warning 1013 -- Net NET00165 has no output pins
+Warning 1014 -- Net ECN_B_1_N has no input pins
+Warning 1015 -- Net ECN_B_1_N has no output pins
+Warning 1016 -- Net ENC_Z_1_P has no input pins
+Warning 1017 -- Net ENC_Z_1_P has no output pins
+Warning 1018 -- Net NET00168 has no input pins
+Warning 1019 -- Net NET00168 has no output pins
+Warning 1020 -- Net NET00169 has no input pins
+Warning 1021 -- Net NET00169 has no output pins
+Warning 1022 -- Net NET00170 has no input pins
+Warning 1023 -- Net NET00170 has no output pins
+Warning 1024 -- Net NET00176 has no input pins
+Warning 1025 -- Net NET00176 has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   19
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 1026 -- Net ECN_Z_1_N has no input pins
+Warning 1027 -- Net ECN_Z_1_N has no output pins
+Warning 1028 -- Net ENC_A_2_P has no input pins
+Warning 1029 -- Net ENC_A_2_P has no output pins
+Warning 1030 -- Net ECN_A_2_N has no input pins
+Warning 1031 -- Net ECN_A_2_N has no output pins
+Warning 1032 -- Net ENC_B_2_P has no input pins
+Warning 1033 -- Net ENC_B_2_P has no output pins
+Warning 1034 -- Net ECN_B_2_N has no input pins
+Warning 1035 -- Net ECN_B_2_N has no output pins
+Warning 1036 -- Net ENC_Z_2_P has no input pins
+Warning 1037 -- Net ENC_Z_2_P has no output pins
+Warning 1038 -- Net ECN_Z_2_N has no input pins
+Warning 1039 -- Net ECN_Z_2_N has no output pins
+Warning 1040 -- Net OPT_DIR has no input pins
+Warning 1041 -- Net L_STEP has no output pins
+Warning 1042 -- Net OPT_ENA has no input pins
+Warning 1043 -- Net NET00260 has no output pins
+Warning 1044 -- Net L_DIR has no output pins
+Warning 1045 -- Net L_ENA has no output pins
+Warning 1046 -- Net OPT_STEP has no input pins
+Warning 1047 -- Bi pin on sheet:FPGA1 at mm (455.000,130.000) connected to outp
+ut pin
+Warning 1048 -- Net L_ENC_A_0 has no input pins
+Warning 1049 -- Bi pin on sheet:FPGA1 at mm (455.000,125.000) connected to outp
+ut pin
+Warning 1050 -- Net L_ENC_B_0 has no input pins
+Warning 1051 -- Net SD_PWR has no input pins
+Warning 1052 -- Net SD_PWR has no output pins
+Warning 1053 -- Net NET00312 has no output pins
+Warning 1054 -- Net SD_GND has no input pins
+Warning 1055 -- Net SD_GND has no output pins
+Warning 1056 -- Net L_CURRENT_4 has no output pins
+Warning 1057 -- Bi pin on sheet:FPGA1 at mm (455.000,120.000) connected to outp
+ut pin
+Warning 1058 -- Net L_ENC_Z_0 has no input pins
+Warning 1059 -- Bi pin on sheet:FPGA1 at mm (455.000,115.000) connected to outp
+ut pin
+Warning 1060 -- Net L_ENC_A_1 has no input pins
+Warning 1061 -- Bi pin on sheet:FPGA1 at mm (455.000,110.000) connected to outp
+ut pin
+Warning 1062 -- Net L_ENC_B_1 has no input pins
+Warning 1063 -- Bi pin on sheet:FPGA1 at mm (455.000,105.000) connected to outp
+ut pin
+Warning 1064 -- Net L_ENC_Z_1 has no input pins
+Warning 1065 -- Bi pin on sheet:FPGA1 at mm (455.000, 95.000) connected to outp
+ut pin
+Warning 1066 -- Net L_ENC_A_2 has no input pins
+Warning 1067 -- Bi pin on sheet:FPGA1 at mm (455.000, 90.000) connected to outp
+ut pin
+Warning 1068 -- Net L_ENC_B_2 has no input pins
+Warning 1069 -- Bi pin on sheet:FPGA1 at mm (455.000, 85.000) connected to outp
+ut pin
+Warning 1070 -- Net L_ENC_Z_2 has no input pins
+Warning 1071 -- Net L_CURRENT_5 has no output pins
+Warning 1072 -- Net NET00316 has no input pins
+Warning 1073 -- Net NET00316 has no output pins
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   20
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 1074 -- Net NET00317 has no input pins
+Warning 1075 -- Net NET00317 has no output pins
+Warning 1076 -- Net SD_STEP has no input pins
+Warning 1077 -- Net SD_STEP has no output pins
+Warning 1078 -- Net SD_ENA has no input pins
+Warning 1079 -- Net SD_ENA has no output pins
+Warning 1080 -- Net SD_DIR has no input pins
+Warning 1081 -- Net SD_DIR has no output pins
+Warning 1082 -- Net NET00257 has no input pins
+Warning 1083 -- Net NET00258 has no input pins
+
+1083 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+Warning 1084 -- Unconnected pin U1:1-139 on sheet:MCU1 at mm (205.000,260.000)
+Warning 1085 -- Unconnected pin U1:1-135 on sheet:MCU1 at mm (205.000,275.000)
+Warning 1086 -- Unconnected pin U1:1-117 on sheet:MCU1 at mm (275.000,285.000)
+Warning 1087 -- Unconnected pin U1:1-48 on sheet:MCU1 at mm (205.000,290.000)
+Warning 1088 -- Unconnected pin U1:1-116 on sheet:MCU1 at mm (275.000,290.000)
+Warning 1089 -- Unconnected pin U1:1-46 on sheet:MCU1 at mm (205.000,300.000)
+Warning 1090 -- Unconnected pin U1:1-7 on sheet:MCU1 at mm (275.000,315.000)
+Warning 1091 -- Unconnected pin U1:1-113 on sheet:MCU1 at mm (275.000,320.000)
+Warning 1092 -- Unconnected pin U1:1-102 on sheet:MCU1 at mm (205.000,330.000)
+Warning 1093 -- Unconnected pin U1:1-111 on sheet:MCU1 at mm (275.000,330.000)
+Warning 1094 -- Unconnected pin U1:1-43 on sheet:MCU1 at mm (205.000,345.000)
+Warning 1095 -- Unconnected pin U1:1-40 on sheet:MCU1 at mm (205.000,360.000)
+Warning 1096 -- Unconnected pin U1:1-140 on sheet:MCU1 at mm (205.000,255.000)
+Warning 1097 -- Unconnected pin U1:1-73 on sheet:MCU1 at mm (205.000,240.000)
+Warning 1098 -- Unconnected pin U1:1-74 on sheet:MCU1 at mm (205.000,235.000)
+Warning 1099 -- Unconnected pin U1:1-82 on sheet:MCU1 at mm (275.000,235.000)
+Warning 1100 -- Unconnected pin U1:1-122 on sheet:MCU1 at mm (275.000,270.000)
+Warning 1101 -- Unconnected pin U1:1-123 on sheet:MCU1 at mm (275.000,265.000)
+Warning 1102 -- Unconnected pin U1:1-47 on sheet:MCU1 at mm (205.000,295.000)
+Warning 1103 -- Unconnected pin U1:1-100 on sheet:MCU1 at mm (205.000,340.000)
+Warning 1104 -- Unconnected pin U1:1-98 on sheet:MCU1 at mm (275.000,340.000)
+Warning 1105 -- Unconnected pin U1:1-99 on sheet:MCU1 at mm (275.000,335.000)
+Warning 1106 -- Unconnected pin U1:1-112 on sheet:MCU1 at mm (275.000,325.000)
+Warning 1107 -- Unconnected pin U1:1-34 on sheet:MCU1 at mm (205.000,380.000)
+Warning 1108 -- Unconnected pin U1:1-41 on sheet:MCU1 at mm (205.000,355.000)
+Warning 1109 -- Unconnected pin U1:1-42 on sheet:MCU1 at mm (205.000,350.000)
+Warning 1110 -- Unconnected pin U1:1-96 on sheet:MCU1 at mm (275.000,350.000)
+Warning 1111 -- Unconnected pin U1:2-55 on sheet:MCU1 at mm (205.000, 25.000)
+Warning 1112 -- Unconnected pin U1:2-50 on sheet:MCU1 at mm (205.000, 40.000)
+Warning 1113 -- Unconnected pin U1:2-13 on sheet:MCU1 at mm (205.000, 85.000)
+Warning 1114 -- Unconnected pin U1:2-4 on sheet:MCU1 at mm (205.000,155.000)
+Warning 1115 -- Unconnected pin U1:2-1 on sheet:MCU1 at mm (205.000,170.000)
+Warning 1116 -- Unconnected pin U1:2-128 on sheet:MCU1 at mm (265.000,115.000)
+Warning 1117 -- Unconnected pin U1:2-126 on sheet:MCU1 at mm (265.000,125.000)
+Warning 1118 -- Unconnected pin U1:2-93 on sheet:MCU1 at mm (265.000,140.000)
+Warning 1119 -- Unconnected pin U1:2-49 on sheet:MCU1 at mm (205.000, 45.000)
+Warning 1120 -- Unconnected pin U1:2-53 on sheet:MCU1 at mm (205.000, 35.000)
+Warning 1121 -- Unconnected pin U1:2-54 on sheet:MCU1 at mm (205.000, 30.000)
+Warning 1122 -- Unconnected pin U1:2-12 on sheet:MCU1 at mm (205.000, 90.000)
+Warning 1123 -- Unconnected pin U1:2-2 on sheet:MCU1 at mm (205.000,165.000)
+Warning 1124 -- Unconnected pin U1:2-3 on sheet:MCU1 at mm (205.000,160.000)
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   21
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 1125 -- Unconnected pin U1:2-5 on sheet:MCU1 at mm (205.000,150.000)
+Warning 1126 -- Unconnected pin U1:2-132 on sheet:MCU1 at mm (265.000,105.000)
+Warning 1127 -- Unconnected pin U1:2-125 on sheet:MCU1 at mm (265.000,130.000)
+Warning 1128 -- Unconnected pin U1:2-92 on sheet:MCU1 at mm (265.000,145.000)
+Warning 1129 -- Unconnected pin U1:2-24 on sheet:MCU1 at mm (265.000, 95.000)
+Warning 1130 -- Unconnected pin X3-6 on sheet:FPGA1 at mm ( 80.000,325.000)
+Warning 1131 -- Unconnected pin X3-7 on sheet:FPGA1 at mm ( 80.000,320.000)
+Warning 1132 -- Unconnected pin X3-8 on sheet:FPGA1 at mm ( 80.000,315.000)
+Warning 1133 -- Unconnected pin U6-1 on sheet:IC at mm (495.000,210.000)
+Warning 1134 -- Unconnected pin U5-11 on sheet:IC at mm (445.000,305.000)
+Warning 1135 -- Unconnected pin U5-4 on sheet:IC at mm (500.000,320.000)
+Warning 1136 -- Unconnected pin U5-12 on sheet:IC at mm (445.000,300.000)
+Warning 1137 -- Unconnected pin U5-5 on sheet:IC at mm (445.000,315.000)
+Warning 1138 -- Unconnected pin U5-6 on sheet:IC at mm (445.000,310.000)
+Warning 1139 -- Unconnected pin U5-13 on sheet:IC at mm (500.000,310.000)
+Warning 1140 -- Unconnected pin U5-14 on sheet:IC at mm (500.000,315.000)
+Warning 1141 -- Unconnected pin U7-1 on sheet:IC at mm (455.000,135.000)
+Warning 1142 -- Unconnected pin V2-4 on sheet:MCU2 at mm (195.000, 40.000)
+Warning 1143 -- Unconnected pin V2-5 on sheet:MCU2 at mm (195.000, 35.000)
+Warning 1144 -- Unconnected pin U16-12 on sheet:IN at mm (385.000,115.000)
+Warning 1145 -- Unconnected pin U16-10 on sheet:IN at mm (385.000,120.000)
+Warning 1146 -- Unconnected pin U26-7 on sheet:GEN at mm (335.000,180.000)
+Warning 1147 -- Unconnected pin U26-12 on sheet:GEN at mm (375.000,190.000)
+Warning 1148 -- Unconnected pin U26-11 on sheet:GEN at mm (375.000,185.000)
+Warning 1149 -- Unconnected pin U25-7 on sheet:GEN at mm (335.000,335.000)
+Warning 1150 -- Unconnected pin R103-3 on sheet:GEN at mm (400.000,190.000)
+Warning 1151 -- Unconnected pin R103-6 on sheet:GEN at mm (430.000,190.000)
+Warning 1152 -- Unconnected pin R103-4 on sheet:GEN at mm (400.000,185.000)
+Warning 1153 -- Unconnected pin R103-5 on sheet:GEN at mm (430.000,185.000)
+Warning 1154 -- Unconnected pin R94-4 on sheet:GEN at mm (105.000,375.000)
+Warning 1155 -- Unconnected pin X11-38 on sheet:GEN at mm (550.000,205.000)
+Warning 1156 -- Unconnected pin X11-35 on sheet:GEN at mm (550.000,220.000)
+Warning 1157 -- Unconnected pin X11-32 on sheet:GEN at mm (550.000,235.000)
+Warning 1158 -- Unconnected pin X11-23 on sheet:GEN at mm (550.000,280.000)
+Warning 1159 -- Unconnected pin X11-21 on sheet:GEN at mm (550.000,290.000)
+Warning 1160 -- Unconnected pin X11-20 on sheet:GEN at mm (550.000,295.000)
+Warning 1161 -- Unconnected pin X11-39 on sheet:GEN at mm (550.000,200.000)
+Warning 1162 -- Unconnected pin X11-40 on sheet:GEN at mm (550.000,195.000)
+Warning 1163 -- Unconnected pin X11-33 on sheet:GEN at mm (550.000,230.000)
+Warning 1164 -- Unconnected pin X11-34 on sheet:GEN at mm (550.000,225.000)
+Warning 1165 -- Unconnected pin X11-36 on sheet:GEN at mm (550.000,215.000)
+Warning 1166 -- Unconnected pin X11-37 on sheet:GEN at mm (550.000,210.000)
+Warning 1167 -- Unconnected pin X11-31 on sheet:GEN at mm (550.000,240.000)
+Warning 1168 -- Unconnected pin X11-22 on sheet:GEN at mm (550.000,285.000)
+Warning 1169 -- Unconnected pin X11-24 on sheet:GEN at mm (550.000,275.000)
+Warning 1170 -- Unconnected pin X11-19 on sheet:GEN at mm (550.000,300.000)
+Warning 1171 -- Unconnected pin X6-9 on sheet:COM at mm (255.000,185.000)
+Warning 1172 -- Unconnected pin X6-6 on sheet:COM at mm (255.000,200.000)
+Warning 1173 -- Unconnected pin X6-4 on sheet:COM at mm (255.000,210.000)
+Warning 1174 -- Unconnected pin X6-1 on sheet:COM at mm (255.000,225.000)
+Warning 1175 -- Unconnected pin U73-5 on sheet:PULT_OLD at mm (365.000,100.000)
+
+Warning 1176 -- Unconnected pin U73-6 on sheet:PULT_OLD at mm (365.000, 95.000)
+
+Warning 1177 -- Unconnected pin U73-7 on sheet:PULT_OLD at mm (365.000, 90.000)
+
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   22
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 1178 -- Unconnected pin U73-4 on sheet:PULT_OLD at mm (365.000,105.000)
+
+Warning 1179 -- Unconnected pin U71-12 on sheet:PULT_OLD at mm (295.000,340.000
+)
+Warning 1180 -- Unconnected pin R228-5 on sheet:PULT_OLD at mm (435.000,110.000
+)
+Warning 1181 -- Unconnected pin R229-4 on sheet:PULT_OLD at mm (425.000,385.000
+)
+Warning 1182 -- Unconnected pin X18-23 on sheet:PULT_OLD at mm (545.000, 55.000
+)
+Warning 1183 -- Unconnected pin X18-21 on sheet:PULT_OLD at mm (545.000, 65.000
+)
+Warning 1184 -- Unconnected pin X18-20 on sheet:PULT_OLD at mm (545.000, 70.000
+)
+Warning 1185 -- Unconnected pin X18-22 on sheet:PULT_OLD at mm (545.000, 60.000
+)
+Warning 1186 -- Unconnected pin X18-24 on sheet:PULT_OLD at mm (545.000, 50.000
+)
+Warning 1187 -- Unconnected pin X18-25 on sheet:PULT_OLD at mm (545.000, 45.000
+)
+Warning 1188 -- Unconnected pin X18-19 on sheet:PULT_OLD at mm (545.000, 75.000
+)
+Warning 1189 -- Unconnected pin K5-4 on sheet:DRUM at mm (420.000,150.000)
+Warning 1190 -- Unconnected pin K6-4 on sheet:DRUM at mm (420.000, 80.000)
+Warning 1191 -- Unconnected pin K4-4 on sheet:DRUM at mm (420.000,220.000)
+Warning 1192 -- Unconnected pin K2-4 on sheet:DRUM at mm (420.000,360.000)
+Warning 1193 -- Unconnected pin K3-4 on sheet:DRUM at mm (420.000,290.000)
+Warning 1194 -- Unconnected pin U28-7 on sheet:DRUM at mm (115.000,165.000)
+Warning 1195 -- Unconnected pin U28-11 on sheet:DRUM at mm (155.000,170.000)
+Warning 1196 -- Unconnected pin U27-7 on sheet:DRUM at mm (115.000,315.000)
+Warning 1197 -- Unconnected pin U27-12 on sheet:DRUM at mm (155.000,325.000)
+Warning 1198 -- Unconnected pin U29-13 on sheet:DRUM at mm (280.000,310.000)
+Warning 1199 -- Unconnected pin U29-11 on sheet:DRUM at mm (280.000,300.000)
+Warning 1200 -- Unconnected pin U29-12 on sheet:DRUM at mm (280.000,305.000)
+Warning 1201 -- Unconnected pin K9-11 on sheet:OUT at mm (410.000,270.000)
+Warning 1202 -- Unconnected pin K9-6 on sheet:OUT at mm (400.000,270.000)
+Warning 1203 -- Unconnected pin K7-8 on sheet:OUT at mm (400.000,130.000)
+Warning 1204 -- Unconnected pin K7-9 on sheet:OUT at mm (410.000,130.000)
+Warning 1205 -- Unconnected pin K10-11 on sheet:OUT at mm (410.000,200.000)
+Warning 1206 -- Unconnected pin K10-6 on sheet:OUT at mm (400.000,200.000)
+Warning 1207 -- Unconnected pin K8-11 on sheet:OUT at mm (410.000,340.000)
+Warning 1208 -- Unconnected pin K8-6 on sheet:OUT at mm (400.000,340.000)
+Warning 1209 -- Unconnected pin U30-7 on sheet:OUT at mm (115.000,295.000)
+Warning 1210 -- Unconnected pin U31-13 on sheet:OUT at mm (270.000,290.000)
+Warning 1211 -- Unconnected pin U31-11 on sheet:OUT at mm (270.000,280.000)
+Warning 1212 -- Unconnected pin U31-12 on sheet:OUT at mm (270.000,285.000)
+Warning 1213 -- Unconnected pin U31-14 on sheet:OUT at mm (270.000,295.000)
+Warning 1214 -- Unconnected pin X15-23 on sheet:MOTOR at mm (545.000,260.000)
+Warning 1215 -- Unconnected pin X15-21 on sheet:MOTOR at mm (545.000,270.000)
+Warning 1216 -- Unconnected pin X15-20 on sheet:MOTOR at mm (545.000,275.000)
+Warning 1217 -- Unconnected pin X15-12 on sheet:MOTOR at mm (545.000,315.000)
+Warning 1218 -- Unconnected pin X15-22 on sheet:MOTOR at mm (545.000,265.000)
+Warning 1219 -- Unconnected pin X15-24 on sheet:MOTOR at mm (545.000,255.000)
+Warning 1220 -- Unconnected pin X15-25 on sheet:MOTOR at mm (545.000,250.000)
+Warning 1221 -- Unconnected pin X19-15 on sheet:PULT_NEW at mm (405.000,190.000
+)
+Warning 1222 -- Unconnected pin X19-14 on sheet:PULT_NEW at mm (405.000,195.000
+)
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   23
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 1223 -- Unconnected pin X19-12 on sheet:PULT_NEW at mm (405.000,205.000
+)
+Warning 1224 -- Unconnected pin X19-11 on sheet:PULT_NEW at mm (405.000,210.000
+)
+Warning 1225 -- Unconnected pin X19-13 on sheet:PULT_NEW at mm (405.000,200.000
+)
+Warning 1226 -- Unconnected pin U79-12 on sheet:PULT_NEW at mm (285.000,330.000
+)
+Warning 1227 -- Unconnected pin U79-6 on sheet:PULT_NEW at mm (285.000,345.000)
+
+Warning 1228 -- Unconnected pin U79-10 on sheet:PULT_NEW at mm (285.000,335.000
+)
+Warning 1229 -- Unconnected pin U79-8 on sheet:PULT_NEW at mm (285.000,340.000)
+
+Warning 1230 -- Unconnected pin U61-13 on sheet:SD at mm (130.000,170.000)
+Warning 1231 -- Unconnected pin U61-11 on sheet:SD at mm (130.000,160.000)
+Warning 1232 -- Unconnected pin U61-12 on sheet:SD at mm (130.000,165.000)
+Warning 1233 -- Unconnected pin U61-14 on sheet:SD at mm (130.000,175.000)
+Warning 1234 -- Unconnected pin U61-15 on sheet:SD at mm (130.000,180.000)
+Warning 1235 -- Unconnected pin U60-12 on sheet:SD at mm (130.000,260.000)
+Warning 1236 -- Unconnected pin U60-10 on sheet:SD at mm (130.000,265.000)
+Warning 1237 -- Unconnected pin U60-8 on sheet:SD at mm (130.000,270.000)
+Warning 1238 -- Unconnected pin X16-7 on sheet:SD at mm (540.000,255.000)
+Warning 1239 -- Unconnected pin X17-14 on sheet:SD at mm (540.000,130.000)
+Warning 1240 -- Unconnected pin X17-12 on sheet:SD at mm (540.000,140.000)
+Warning 1241 -- Unconnected pin X17-4 on sheet:SD at mm (540.000,180.000)
+Warning 1242 -- Unconnected pin X17-7 on sheet:SD at mm (540.000,165.000)
+Warning 1243 -- Unconnected pin X20-6 on sheet:KEYBOARD at mm (335.000,340.000)
+
+Warning 1244 -- Unconnected pin X20-5 on sheet:KEYBOARD at mm (335.000,345.000)
+
+Warning 1245 -- Unconnected pin X20-7 on sheet:KEYBOARD at mm (335.000,335.000)
+
+Warning 1246 -- Unconnected pin X20-8 on sheet:KEYBOARD at mm (335.000,330.000)
+
+Warning 1247 -- Unconnected pin U80-11 on sheet:KEYBOARD at mm (155.000,330.000
+)
+Warning 1248 -- Unconnected pin U80-14 on sheet:KEYBOARD at mm (155.000,325.000
+)
+
+165 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED WIRES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+BUS/NET RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT RULES:
+
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   24
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NET CONNECTIVITY RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+HIERARCHY RULES:
+
+
+Hierarchy is simple.
+Hierarchy is resolved.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ERC Summary:
+------------
+
+Single Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+No Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Electrical:
+	Errors:         0
+	Warnings:       1083
+	Ignored Errors: 0
+Unconnected Pin:
+	Errors:         0
+	Warnings:       165
+	Ignored Errors: 0
+Unconnected Wire:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Bus/Net:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Net Connectivity:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Hierarchy:
+	Errors:         0
+	Warnings:       0
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   25
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+	Ignored Errors: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+15-Oct-19  09:28                                            Page   26
+

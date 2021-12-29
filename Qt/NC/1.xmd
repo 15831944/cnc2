@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+    <mode>
+        <drum_velocity type="float">7</drum_velocity>
+        <pulse_width type="float">36</pulse_width>
+        <pulse_ratio type="float">8</pulse_ratio>
+        <voltage_level type="float">0</voltage_level>
+        <current_level type="float">7</current_level>
+    </mode>
+    <mode>
+        <drum_velocity type="float">7</drum_velocity>
+        <pulse_width type="float">36</pulse_width>
+        <pulse_ratio type="float">8</pulse_ratio>
+        <voltage_level type="float">0</voltage_level>
+        <current_level type="float">7</current_level>
+    </mode>
+    <mode>
+        <drum_velocity type="float">7</drum_velocity>
+        <pulse_width type="float">36</pulse_width>
+        <pulse_ratio type="float">8</pulse_ratio>
+        <voltage_level type="float">0</voltage_level>
+        <current_level type="float">7</current_level>
+    </mode>
+    <mode>
+        <drum_velocity type="float">7</drum_velocity>
+        <pulse_width type="float">36</pulse_width>
+        <pulse_ratio type="float">8</pulse_ratio>
+        <voltage_level type="float">0</voltage_level>
+        <current_level type="float">7</current_level>
+    </mode>
+    <mode>
+        <drum_velocity type="float">7</drum_velocity>
+        <pulse_width type="float">36</pulse_width>
+        <pulse_ratio type="float">8</pulse_ratio>
+        <voltage_level type="float">0</voltage_level>
+        <current_level type="float">7</current_level>
+    </mode>
+    <mode>
+        <drum_velocity type="float">7</drum_velocity>
+        <pulse_width type="float">36</pulse_width>
+        <pulse_ratio type="float">8</pulse_ratio>
+        <voltage_level type="float">0</voltage_level>
+        <current_level type="float">7</current_level>
+    </mode>
+    <mode>
+        <drum_velocity type="float">7</drum_velocity>
+        <pulse_width type="float">36</pulse_width>
+        <pulse_ratio type="float">8</pulse_ratio>
+        <voltage_level type="float">0</voltage_level>
+        <current_level type="float">7</current_level>
+    </mode>
+</modes>

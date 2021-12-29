@@ -1,0 +1,7 @@
+1597671030267	Rename resource 'pc_watchdog.c'
+1597734283841	Rename resource 'pc_wdg_task.h'
+1597734312701	Rename resource 'pc_wdg_task.c'
+1597734559613	Rename resource 'soft_wdg_task.c'
+1597734580317	Rename resource 'soft_wdg_task.h'
+1597740961954	Rename resource 'soft_wdt_task.h'
+1597743018952	Rename resource 'soft_wdt_task.c'

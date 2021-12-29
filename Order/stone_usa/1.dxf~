@@ -1,0 +1,10066 @@
+999
+dxfrw 0.6.3
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1021
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$EXTMIN
+ 10
+-8.785744766135846
+ 20
+-10.10341196842205
+ 30
+0
+  9
+$EXTMAX
+ 10
+11.17658200758669
+ 20
+5.140440244699999
+ 30
+0
+  9
+$LIMMIN
+ 10
+0
+ 20
+0
+  9
+$LIMMAX
+ 10
+12
+ 20
+9
+  9
+$ORTHOMODE
+ 70
+    0
+  9
+$REGENMODE
+ 70
+    1
+  9
+$FILLMODE
+ 70
+    1
+  9
+$QTEXTMODE
+ 70
+    0
+  9
+$MIRRTEXT
+ 70
+    1
+  9
+$LTSCALE
+ 40
+1
+  9
+$ATTMODE
+ 70
+    1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+FINISH ID - G42 - 540203
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+  256
+  9
+$CELTSCALE
+ 40
+1
+  9
+$DISPSILH
+ 70
+    0
+  9
+$DIMSCALE
+ 40
+1
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0
+  9
+$DIMDLE
+ 40
+0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0
+  9
+$DIMTM
+ 40
+0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0
+  9
+$DIMTOL
+ 70
+    0
+  9
+$DIMLIM
+ 70
+    0
+  9
+$DIMTIH
+ 70
+    1
+  9
+$DIMTOH
+ 70
+    1
+  9
+$DIMSE1
+ 70
+    0
+  9
+$DIMSE2
+ 70
+    0
+  9
+$DIMTAD
+ 70
+    0
+  9
+$DIMZIN
+ 70
+    0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+    1
+  9
+$DIMSHO
+ 70
+    1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+    0
+  9
+$DIMALTD
+ 70
+    2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1
+  9
+$DIMTOFL
+ 70
+    0
+  9
+$DIMTVP
+ 40
+0
+  9
+$DIMTIX
+ 70
+    0
+  9
+$DIMSOXD
+ 70
+    0
+  9
+$DIMSAH
+ 70
+    0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+Standard
+  9
+$DIMCLRD
+ 70
+    0
+  9
+$DIMCLRE
+ 70
+    0
+  9
+$DIMCLRT
+ 70
+    0
+  9
+$DIMTFAC
+ 40
+1
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$DIMJUST
+ 70
+    0
+  9
+$DIMSD1
+ 70
+    0
+  9
+$DIMSD2
+ 70
+    0
+  9
+$DIMTOLJ
+ 70
+    1
+  9
+$DIMTZIN
+ 70
+    0
+  9
+$DIMALTZ
+ 70
+    0
+  9
+$DIMALTTZ
+ 70
+    0
+  9
+$DIMUPT
+ 70
+    0
+  9
+$DIMDEC
+ 70
+    4
+  9
+$DIMTDEC
+ 70
+    4
+  9
+$DIMALTU
+ 70
+    2
+  9
+$DIMALTTD
+ 70
+    2
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+    0
+  9
+$DIMADEC
+ 70
+    0
+  9
+$DIMALTRND
+ 40
+0
+  9
+$DIMAZIN
+ 70
+    0
+  9
+$DIMDSEP
+ 70
+   46
+  9
+$DIMATFIT
+ 70
+    3
+  9
+$DIMFRAC
+ 70
+    0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+    2
+  9
+$DIMLWD
+ 70
+   -2
+  9
+$DIMLWE
+ 70
+   -2
+  9
+$DIMTMOVE
+ 70
+    0
+  9
+$DIMFXL
+ 40
+1
+  9
+$DIMFXLON
+ 70
+    0
+  9
+$DIMJOGANG
+ 40
+0.7853981633974483
+  9
+$DIMTFILL
+ 70
+    0
+  9
+$DIMTFILLCLR
+ 70
+    0
+  9
+$DIMARCSYM
+ 70
+    0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$LUNITS
+ 70
+    2
+  9
+$LUPREC
+ 70
+    4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.5
+  9
+$AUNITS
+ 70
+    0
+  9
+$AUPREC
+ 70
+    0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0
+  9
+$PELEVATION
+ 40
+0
+  9
+$THICKNESS
+ 40
+0
+  9
+$LIMCHECK
+ 70
+    0
+  9
+$CHAMFERA
+ 40
+0
+  9
+$CHAMFERB
+ 40
+0
+  9
+$CHAMFERC
+ 40
+0
+  9
+$CHAMFERD
+ 40
+0
+  9
+$SKPOLY
+ 70
+    0
+  9
+$USRTIMER
+ 70
+    1
+  9
+$ANGBASE
+ 50
+0
+  9
+$ANGDIR
+ 70
+    0
+  9
+$PDMODE
+ 70
+    2
+  9
+$PDSIZE
+ 40
+0.1
+  9
+$PLINEWID
+ 40
+0
+  9
+$SPLFRAME
+ 70
+    0
+  9
+$SPLINETYPE
+ 70
+    6
+  9
+$SPLINESEGS
+ 70
+    8
+  9
+$HANDSEED
+  5
+20000
+  9
+$SURFTAB1
+ 70
+    6
+  9
+$SURFTAB2
+ 70
+    6
+  9
+$SURFTYPE
+ 70
+    6
+  9
+$SURFU
+ 70
+    6
+  9
+$SURFV
+ 70
+    6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$UCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+    0
+  9
+$UCSORGTOP
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGBOTTOM
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGLEFT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGRIGHT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGFRONT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGBACK
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$PUCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+    0
+  9
+$PUCSORGTOP
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGBOTTOM
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGLEFT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGRIGHT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGFRONT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGBACK
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$USERI1
+ 70
+    0
+  9
+$USERI2
+ 70
+    0
+  9
+$USERI3
+ 70
+    0
+  9
+$USERI4
+ 70
+    0
+  9
+$USERI5
+ 70
+    0
+  9
+$USERR1
+ 40
+0
+  9
+$USERR2
+ 40
+0
+  9
+$USERR3
+ 40
+0
+  9
+$USERR4
+ 40
+0
+  9
+$USERR5
+ 40
+0
+  9
+$WORLDVIEW
+ 70
+    1
+  9
+$SHADEDGE
+ 70
+    3
+  9
+$SHADEDIF
+ 70
+   70
+  9
+$TILEMODE
+ 70
+    1
+  9
+$MAXACTVP
+ 70
+   64
+  9
+$PINSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PLIMCHECK
+ 70
+    0
+  9
+$PEXTMIN
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PEXTMAX
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$GRIDMODE
+ 70
+    0
+  9
+$SNAPSTYLE
+ 70
+    0
+  9
+$PLIMMIN
+ 10
+-0.25
+ 20
+-0.25
+  9
+$PLIMMAX
+ 10
+10.75
+ 20
+8.25
+  9
+$UNITMODE
+ 70
+    0
+  9
+$VISRETAIN
+ 70
+    1
+  9
+$PLINEGEN
+ 70
+    0
+  9
+$PSLTSCALE
+ 70
+    1
+  9
+$TREEDEPTH
+ 70
+ 3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+    0
+  9
+$CMLSCALE
+ 40
+1
+  9
+$PROXYGRAPHICS
+ 70
+    1
+  9
+$MEASUREMENT
+ 70
+    0
+  9
+$CELWEIGHT
+370
+   -1
+  9
+$ENDCAPS
+280
+    0
+  9
+$JOINSTYLE
+280
+    0
+  9
+$LWDISPLAY
+290
+    0
+  9
+$INSUNITS
+ 70
+    1
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+    1
+  9
+$CEPSNTYPE
+380
+    0
+  9
+$PSTYLEMODE
+290
+    1
+  9
+$EXTNAMES
+290
+    1
+  9
+$PSVPSCALE
+ 40
+0
+  9
+$OLESTARTUP
+290
+    0
+  9
+$SORTENTS
+280
+  127
+  9
+$INDEXCTL
+280
+    0
+  9
+$HIDETEXT
+280
+    1
+  9
+$XCLIPFRAME
+290
+    2
+  9
+$HALOGAP
+280
+    0
+  9
+$OBSCOLOR
+ 70
+  257
+  9
+$OBSLTYPE
+280
+    0
+  9
+$INTERSECTIONDISPLAY
+280
+    0
+  9
+$INTERSECTIONCOLOR
+ 70
+  257
+  9
+$DIMASSOC
+280
+    2
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+    0
+  9
+$LENSLENGTH
+ 40
+50
+  9
+$CAMERAHEIGHT
+ 40
+0
+  9
+$STEPSPERSEC
+ 40
+2
+  9
+$STEPSIZE
+ 40
+6
+  9
+$3DDWFPREC
+ 40
+2
+  9
+$PSOLWIDTH
+ 40
+0.25
+  9
+$PSOLHEIGHT
+ 40
+4
+  9
+$LOFTANG1
+ 40
+1.570796326794897
+  9
+$LOFTANG2
+ 40
+1.570796326794897
+  9
+$LOFTMAG1
+ 40
+0
+  9
+$LOFTMAG2
+ 40
+0
+  9
+$LOFTPARAM
+ 70
+    7
+  9
+$LOFTNORMALS
+280
+    1
+  9
+$LATITUDE
+ 40
+37.795
+  9
+$LONGITUDE
+ 40
+-122.394
+  9
+$NORTHDIRECTION
+ 40
+0
+  9
+$TIMEZONE
+ 70
+-8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+    1
+  9
+$TILEMODELIGHTSYNCH
+280
+    1
+  9
+$SOLIDHIST
+280
+    0
+  9
+$SHOWHIST
+280
+    1
+  9
+$DWFFRAME
+280
+    2
+  9
+$DGNFRAME
+280
+    2
+  9
+$REALWORLDSCALE
+290
+    1
+  9
+$INTERFERECOLOR
+ 62
+  256
+  9
+$CSHADOW
+280
+    0
+  9
+$SHADOWPLANELOCATION
+ 40
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+VPORT
+  5
+31
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+    0
+ 10
+0
+ 20
+0
+ 11
+1
+ 21
+1
+ 12
+2.318653984935791
+ 22
+1.254114733990428
+ 13
+0
+ 23
+0
+ 14
+10
+ 24
+10
+ 15
+10
+ 25
+10
+ 16
+0
+ 26
+0
+ 36
+1
+ 17
+0
+ 27
+0
+ 37
+0
+ 40
+4.946461834529686
+ 41
+1.889150943396226
+ 42
+50
+ 43
+0
+ 44
+0
+ 50
+0
+ 51
+0
+ 71
+    0
+ 72
+  100
+ 73
+    1
+ 74
+    3
+ 75
+    0
+ 76
+    0
+ 77
+    0
+ 78
+    0
+281
+    0
+ 65
+    1
+110
+0
+120
+0
+130
+0
+111
+1
+121
+0
+131
+0
+112
+0
+122
+1
+132
+0
+ 79
+    0
+146
+0
+348
+10020
+ 60
+    7
+ 61
+    5
+292
+1
+282
+    1
+141
+0
+142
+0
+ 63
+  250
+421
+3358443
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+    4
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+    0
+  3
+
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+    0
+  3
+
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+    0
+  3
+Solid line
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+32
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+    0
+  3
+Dot . . . . . . . . . . . . . . . . . . . . . .
+ 72
+   65
+ 73
+    2
+ 40
+6.35
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+33
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOTTINY
+ 70
+    0
+  3
+Dot (.15x) .....................................
+ 72
+   65
+ 73
+    2
+ 40
+0.9525
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+34
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT2
+ 70
+    0
+  3
+Dot (.5x) .....................................
+ 72
+   65
+ 73
+    2
+ 40
+3.175
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+35
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOTX2
+ 70
+    0
+  3
+Dot (2x) .  .  .  .  .  .  .  .  .  .  .  .  .
+ 72
+   65
+ 73
+    2
+ 40
+12.7
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+36
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED
+ 70
+    0
+  3
+Dashed _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+19.05
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+37
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDTINY
+ 70
+    0
+  3
+Dashed (.15x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+2.8575
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+38
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED2
+ 70
+    0
+  3
+Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+9.524999999999999
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+39
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDX2
+ 70
+    0
+  3
+Dashed (2x) ____  ____  ____  ____  ____  ___
+ 72
+   65
+ 73
+    2
+ 40
+38.09999999999999
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+3A
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+    0
+  3
+Dash dot __ . __ . __ . __ . __ . __ . __ . __
+ 72
+   65
+ 73
+    4
+ 40
+25.4
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+3B
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTTINY
+ 70
+    0
+  3
+Dash dot (.15x) _._._._._._._._._._._._._._._.
+ 72
+   65
+ 73
+    4
+ 40
+3.81
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+3C
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT2
+ 70
+    0
+  3
+Dash dot (.5x) _._._._._._._._._._._._._._._.
+ 72
+   65
+ 73
+    4
+ 40
+12.7
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+3D
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTX2
+ 70
+    0
+  3
+Dash dot (2x) ____  .  ____  .  ____  .  ___
+ 72
+   65
+ 73
+    4
+ 40
+50.8
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+3E
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE
+ 70
+    0
+  3
+Divide ____ . . ____ . . ____ . . ____ . . ____
+ 72
+   65
+ 73
+    6
+ 40
+31.75
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+3F
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDETINY
+ 70
+    0
+  3
+Divide (.15x) __..__..__..__..__..__..__..__.._
+ 72
+   65
+ 73
+    6
+ 40
+4.7625
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+40
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE2
+ 70
+    0
+  3
+Divide (.5x) __..__..__..__..__..__..__..__.._
+ 72
+   65
+ 73
+    6
+ 40
+15.875
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+41
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDEX2
+ 70
+    0
+  3
+Divide (2x) ________  .  .  ________  .  .  _
+ 72
+   65
+ 73
+    6
+ 40
+63.5
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+42
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDER
+ 70
+    0
+  3
+Border __ __ . __ __ . __ __ . __ __ . __ __ .
+ 72
+   65
+ 73
+    6
+ 40
+44.45
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+43
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDERTINY
+ 70
+    0
+  3
+Border (.15x) __.__.__.__.__.__.__.__.__.__.__.
+ 72
+   65
+ 73
+    6
+ 40
+6.6675
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+44
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDER2
+ 70
+    0
+  3
+Border (.5x) __.__.__.__.__.__.__.__.__.__.__.
+ 72
+   65
+ 73
+    6
+ 40
+22.225
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+45
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDERX2
+ 70
+    0
+  3
+Border (2x) ____  ____  .  ____  ____  .  ___
+ 72
+   65
+ 73
+    6
+ 40
+88.89999999999999
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+46
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+ 70
+    0
+  3
+Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
+ 72
+   65
+ 73
+    4
+ 40
+50.8
+ 49
+31.75
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+6.35
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+47
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERTINY
+ 70
+    0
+  3
+Center (.15x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+ 72
+   65
+ 73
+    4
+ 40
+7.62
+ 49
+4.7625
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0.9525
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+48
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER2
+ 70
+    0
+  3
+Center (.5x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+ 72
+   65
+ 73
+    4
+ 40
+28.575
+ 49
+19.05
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+3.175
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+49
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERX2
+ 70
+    0
+  3
+Center (2x) ________  __  ________  __  _____
+ 72
+   65
+ 73
+    4
+ 40
+101.6
+ 49
+63.5
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+12.7
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+   -3
+390
+F
+  0
+LAYER
+  5
+4A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+FINISH ID - G42 - 540203
+ 70
+    0
+ 62
+  256
+  6
+CONTINUOUS
+370
+   -3
+390
+F
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+    3
+  0
+STYLE
+  5
+4B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+    0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+    0
+ 42
+1
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+    0
+  0
+APPID
+  5
+4C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+LibreCad
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+100
+AcDbDimStyleTable
+ 71
+    1
+  0
+DIMSTYLE
+105
+4D
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+    0
+ 40
+1
+ 41
+0.18
+ 42
+0.0625
+ 43
+0.38
+ 44
+0.18
+ 45
+0
+ 46
+0
+ 47
+0
+ 48
+0
+ 49
+1
+140
+0.18
+141
+0.09
+142
+0
+143
+25.4
+144
+1
+145
+0
+146
+1
+147
+0.09
+148
+0
+ 71
+    0
+ 72
+    0
+ 73
+    1
+ 74
+    1
+ 75
+    0
+ 76
+    0
+ 77
+    0
+ 78
+    0
+ 79
+    0
+170
+    0
+171
+    2
+172
+    0
+173
+    0
+174
+    0
+175
+    0
+176
+    0
+177
+    0
+178
+    0
+179
+    0
+271
+    4
+272
+    4
+273
+    2
+274
+    2
+275
+    0
+276
+    0
+277
+    2
+278
+   46
+279
+    0
+280
+    0
+281
+    0
+282
+    0
+283
+    1
+284
+    0
+285
+    0
+286
+    0
+288
+    0
+289
+    3
+340
+Standard
+341
+
+371
+   -2
+372
+   -2
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+    2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+1E
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+ 70
+    0
+280
+    1
+281
+    0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+    0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+    0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+4E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.6658182526942422
+ 20
+-0.5351907294406234
+ 11
+1.424280050183023
+ 21
+-1.171616149236022
+  0
+LINE
+  5
+4F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.6892807129178422
+ 20
+-0.5046138734710641
+ 11
+1.500325849930825
+ 21
+-1.072511261726117
+  0
+LINE
+  5
+50
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.5911833450053349
+ 20
+-0.6166403450053383
+ 11
+0.7351259999999978
+ 21
+-0.7605830000000022
+  0
+LINE
+  5
+51
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.0179995913599861
+ 20
+-0.8340603709000001
+ 11
+0.0179996999999968
+ 21
+-1.09498
+  0
+LINE
+  5
+52
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.150725999999997
+ 20
+-1.033090000000001
+ 11
+0.497141458532373
+ 21
+-1.775980977575015
+  0
+LINE
+  5
+53
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.6945109999999981
+ 20
+-0.779522000000002
+ 11
+1.040928154693768
+ 21
+-1.522408171045408
+  0
+LINE
+  5
+54
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.150725999999997
+ 20
+-1.033090000000001
+ 11
+0.0179996999999968
+ 21
+-1.09498
+  0
+LINE
+  5
+55
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.3772550868278592
+ 20
+-0.7664343820331293
+ 11
+0.7956924740167157
+ 21
+-1.663770281407009
+  0
+LINE
+  5
+56
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.3446277883850725
+ 20
+-0.7816487382276096
+ 11
+0.7630632697603913
+ 21
+-1.678985559450283
+  0
+ARC
+  5
+57
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+321.2073645035186
+ 51
+323.7926038162157
+  0
+ARC
+  5
+58
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+296.207379113575
+ 51
+313.7925698531411
+  0
+ARC
+  5
+59
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+269.9999999999999
+ 51
+293.7926124214157
+  0
+ARC
+  5
+5A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+326.2073645035186
+ 51
+328.7926038162156
+  0
+LINE
+  5
+5B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7099295587627725
+ 20
+-0.4751242827880884
+ 11
+1.52097331029199
+ 21
+-1.043023610413219
+  0
+LINE
+  5
+5C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7306377886487962
+ 20
+-0.442618892839423
+ 11
+1.588092172732047
+ 21
+-0.9376680187610134
+  0
+ARC
+  5
+5D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+331.2073645035186
+ 51
+333.7926038162156
+  0
+LINE
+  5
+5E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7486378722219307
+ 20
+-0.4114418534556502
+ 11
+1.606091045120839
+ 21
+-0.9064930321202971
+  0
+LINE
+  5
+5F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7664342696369743
+ 20
+-0.3772553151726794
+ 11
+1.663772155182508
+ 21
+-0.7956885559937094
+  0
+ARC
+  5
+60
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+336.2073645035186
+ 51
+338.7926038162156
+  0
+LINE
+  5
+61
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7816485994335733
+ 20
+-0.3446281031830308
+ 11
+1.678985457312032
+ 21
+-0.7630634944974807
+  0
+LINE
+  5
+62
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7963977230475499
+ 20
+-0.3090205967644843
+ 11
+1.726789826918934
+ 21
+-0.6476534228654069
+  0
+ARC
+  5
+63
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+341.2073645035186
+ 51
+343.7926038162156
+  0
+LINE
+  5
+64
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8087105088311979
+ 20
+-0.2751915249530507
+ 11
+1.739101776373942
+ 21
+-0.6138265829312037
+  0
+LINE
+  5
+65
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8203001089076408
+ 20
+-0.2384340450231734
+ 11
+1.776665585408303
+ 21
+-0.49468925612527
+  0
+ARC
+  5
+66
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+346.2073645035186
+ 51
+348.7926038162156
+  0
+LINE
+  5
+67
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.829617642943861
+ 20
+-0.2036605730529918
+ 11
+1.785982480819284
+ 21
+-0.4599180804301954
+  0
+LINE
+  5
+68
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8379595156281963
+ 20
+-0.1660328662288238
+ 11
+1.813019846012703
+ 21
+-0.3379602054444797
+  0
+ARC
+  5
+69
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+351.2073645035187
+ 51
+353.7926038162157
+  0
+LINE
+  5
+6A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8442108858568923
+ 20
+-0.1305796412183833
+ 11
+1.819270780179884
+ 21
+-0.3025093236309845
+  0
+LINE
+  5
+6B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8492415444610322
+ 20
+-0.09236807706908701
+ 11
+1.835575930857633
+ 21
+-0.1786590735343059
+  0
+ARC
+  5
+6C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+356.2073645035186
+ 51
+358.7926038162156
+  0
+LINE
+  5
+6D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.852379174180083
+ 20
+-0.05650491946796
+ 11
+1.838713330397584
+ 21
+-0.1427982882188169
+  0
+LINE
+  5
+6E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8540603323544549
+ 20
+-0.0180003110694847
+ 11
+1.844162174517685
+ 21
+-0.0179982381972382
+  0
+ARC
+  5
+6F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+1.207364503518635
+ 51
+3.792603816215627
+  0
+LINE
+  5
+70
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8540603423071454
+ 20
+0.0179998388382177
+ 11
+1.844162161925495
+ 21
+0.0179995283906588
+  0
+LINE
+  5
+71
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.852379205422932
+ 20
+0.0565044481662415
+ 11
+1.838713230494091
+ 21
+0.1427995746001441
+  0
+ARC
+  5
+72
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+6.20736450351863
+ 51
+8.792603816215621
+  0
+LINE
+  5
+73
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8492415955335167
+ 20
+0.0923676075022369
+ 11
+1.835575805865593
+ 21
+0.1786603577206695
+  0
+LINE
+  5
+74
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8442109580575042
+ 20
+0.1305791744331039
+ 11
+1.819270568541034
+ 21
+0.3025105964100785
+  0
+ARC
+  5
+75
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+11.20736450351862
+ 51
+13.79260381621562
+  0
+LINE
+  5
+76
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8379596074317823
+ 20
+0.1660324029000776
+ 11
+1.81301960957208
+ 21
+0.3379614738503525
+  0
+LINE
+  5
+77
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8296177555527455
+ 20
+0.2036601143366691
+ 11
+1.785982159055777
+ 21
+0.4599193299204404
+  0
+ARC
+  5
+78
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+16.20736450351862
+ 51
+18.79260381621561
+  0
+LINE
+  5
+79
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8203002407436473
+ 20
+0.2384335914587429
+ 11
+1.776665239318552
+ 21
+0.4946904990973172
+  0
+LINE
+  5
+7A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.8087106609913334
+ 20
+0.2751910777967931
+ 11
+1.739101346934592
+ 21
+0.6138277996232232
+  0
+ARC
+  5
+7B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+21.20736450351861
+ 51
+23.7926038162156
+  0
+LINE
+  5
+7C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7963978939126253
+ 20
+0.3090201564162682
+ 11
+1.726789373814007
+ 21
+0.647654630943861
+  0
+LINE
+  5
+7D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7816487899869292
+ 20
+0.3446276709899677
+ 11
+1.678984923465131
+ 21
+0.7630646691315147
+  0
+ARC
+  5
+7E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+26.20736450351862
+ 51
+28.79260381621561
+  0
+LINE
+  5
+7F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7664344782307326
+ 20
+0.3772548913919939
+ 11
+1.663771598510807
+ 21
+0.7956897199843639
+  0
+LINE
+  5
+80
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.748638099718281
+ 20
+0.4114414395150313
+ 11
+1.606090410929286
+ 21
+0.9064941557566701
+  0
+ARC
+  5
+81
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+31.20736450351862
+ 51
+33.79260381621561
+  0
+LINE
+  5
+82
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7306380333837128
+ 20
+0.442618488851495
+ 11
+1.588091516730181
+ 21
+0.9376691298051965
+  0
+LINE
+  5
+83
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7099298214707329
+ 20
+0.4751238902502519
+ 11
+1.520972580582364
+ 21
+1.043024674500381
+  0
+ARC
+  5
+84
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+36.20736450351861
+ 51
+38.7926038162156
+  0
+LINE
+  5
+85
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.6892809919313365
+ 20
+0.5046134923504854
+ 11
+1.500325099591362
+ 21
+1.072512311368112
+  0
+LINE
+  5
+86
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.6658185486144462
+ 20
+0.5351903612930194
+ 11
+1.424279230508856
+ 21
+1.171617145675627
+  0
+ARC
+  5
+87
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+41.20736450351861
+ 51
+43.7926038162156
+  0
+LINE
+  5
+88
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.6426781059311205
+ 20
+0.5627680824787313
+ 11
+1.40114030252359
+ 21
+1.199193026640875
+  0
+LINE
+  5
+89
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.6166399945709717
+ 20
+0.5911837105295715
+ 11
+1.316746255487862
+ 21
+1.291292902930506
+  0
+ARC
+  5
+8A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+46.2073645035186
+ 51
+48.7926038162156
+  0
+LINE
+  5
+8B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.5911840514851183
+ 20
+0.6166396676906553
+ 11
+1.291291981721967
+ 21
+1.316747158888355
+  0
+LINE
+  5
+8C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.5627684378314033
+ 20
+0.6426777947625093
+ 11
+1.19919204638948
+ 21
+1.401141141490111
+  0
+ARC
+  5
+8D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+51.2073645035186
+ 51
+53.79260381621559
+  0
+LINE
+  5
+8E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.5351907294406242
+ 20
+0.6658182526942418
+ 11
+1.171616149236024
+ 21
+1.424280050183022
+  0
+LINE
+  5
+8F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.5046138734710646
+ 20
+0.6892807129178418
+ 11
+1.072511261726118
+ 21
+1.500325849930824
+  0
+ARC
+  5
+90
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+56.2073645035186
+ 51
+58.7926038162156
+  0
+LINE
+  5
+91
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.475124282788089
+ 20
+0.7099295587627724
+ 11
+1.043023610413221
+ 21
+1.520973310291988
+  0
+LINE
+  5
+92
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.4426188928394238
+ 20
+0.730637788648796
+ 11
+0.9376680187610148
+ 21
+1.588092172732047
+  0
+ARC
+  5
+93
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+61.20736450351859
+ 51
+63.79260381621558
+  0
+LINE
+  5
+94
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.4114418534556509
+ 20
+0.7486378722219302
+ 11
+0.9064930321202981
+ 21
+1.606091045120839
+  0
+LINE
+  5
+95
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.3772553151726802
+ 20
+0.7664342696369741
+ 11
+0.7956885559937107
+ 21
+1.663772155182506
+  0
+ARC
+  5
+96
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+66.20736450351859
+ 51
+68.79260381621557
+  0
+LINE
+  5
+97
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.3446281031830315
+ 20
+0.781648599433573
+ 11
+0.7630634944974819
+ 21
+1.678985457312031
+  0
+LINE
+  5
+98
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.3090205967644851
+ 20
+0.7963977230475496
+ 11
+0.6476534228654084
+ 21
+1.726789826918934
+  0
+ARC
+  5
+99
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+71.20736450351858
+ 51
+73.79260381621557
+  0
+LINE
+  5
+9A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.2751915249530514
+ 20
+0.8087105088311977
+ 11
+0.6138265829312051
+ 21
+1.739101776373942
+  0
+LINE
+  5
+9B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.2384340450231743
+ 20
+0.8203001089076407
+ 11
+0.4946892561252714
+ 21
+1.776665585408302
+  0
+ARC
+  5
+9C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+76.20736450351858
+ 51
+78.79260381621556
+  0
+LINE
+  5
+9D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.2036605730529925
+ 20
+0.8296176429438608
+ 11
+0.4599180804301973
+ 21
+1.785982480819283
+  0
+LINE
+  5
+9E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.1660328662288246
+ 20
+0.8379595156281961
+ 11
+0.3379602054444814
+ 21
+1.813019846012703
+  0
+ARC
+  5
+9F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+81.20736450351856
+ 51
+83.79260381621556
+  0
+LINE
+  5
+A0
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.1305796412183841
+ 20
+0.8442108858568924
+ 11
+0.3025093236309856
+ 21
+1.819270780179884
+  0
+LINE
+  5
+A1
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.0923680770690877
+ 20
+0.8492415444610321
+ 11
+0.1786590735343073
+ 21
+1.835575930857632
+  0
+ARC
+  5
+A2
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+86.20736450351856
+ 51
+88.79260381621556
+  0
+LINE
+  5
+A3
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.0565049194679607
+ 20
+0.8523791741800829
+ 11
+0.1427982882188185
+ 21
+1.838713330397584
+  0
+LINE
+  5
+A4
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.0180003110694853
+ 20
+0.854060332354455
+ 11
+0.0179982381972394
+ 21
+1.844162174517685
+  0
+ARC
+  5
+A5
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+91.20736450351856
+ 51
+93.79260381621555
+  0
+LINE
+  5
+A6
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.0179998388382172
+ 20
+0.8540603423071456
+ 11
+-0.0179995283906576
+ 21
+1.844162161925495
+  0
+LINE
+  5
+A7
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.056504448166241
+ 20
+0.852379205422932
+ 11
+-0.1427995746001428
+ 21
+1.838713230494091
+  0
+ARC
+  5
+A8
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+96.20736450351855
+ 51
+98.79260381621555
+  0
+LINE
+  5
+A9
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.0923676075022363
+ 20
+0.8492415955335169
+ 11
+-0.1786603577206683
+ 21
+1.835575805865593
+  0
+LINE
+  5
+AA
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.1305791744331034
+ 20
+0.8442109580575045
+ 11
+-0.3025105964100775
+ 21
+1.819270568541035
+  0
+ARC
+  5
+AB
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+101.2073645035186
+ 51
+103.7926038162156
+  0
+LINE
+  5
+AC
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.1660324029000771
+ 20
+0.8379596074317827
+ 11
+-0.3379614738503516
+ 21
+1.81301960957208
+  0
+LINE
+  5
+AD
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.2036601143366686
+ 20
+0.8296177555527458
+ 11
+-0.4599193299204393
+ 21
+1.785982159055777
+  0
+ARC
+  5
+AE
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+106.2073645035185
+ 51
+108.7926038162155
+  0
+LINE
+  5
+AF
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.2384335914587425
+ 20
+0.8203002407436476
+ 11
+-0.4946904990973163
+ 21
+1.776665239318552
+  0
+LINE
+  5
+B0
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.2751910777967927
+ 20
+0.8087106609913338
+ 11
+-0.6138277996232223
+ 21
+1.739101346934592
+  0
+ARC
+  5
+B1
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+111.2073645035186
+ 51
+113.7926038162156
+  0
+LINE
+  5
+B2
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.3090201564162678
+ 20
+0.7963978939126256
+ 11
+-0.6476546309438601
+ 21
+1.726789373814007
+  0
+LINE
+  5
+B3
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.3446276709899673
+ 20
+0.7816487899869298
+ 11
+-0.7630646691315135
+ 21
+1.678984923465132
+  0
+ARC
+  5
+B4
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+116.2073645035186
+ 51
+118.7926038162156
+  0
+LINE
+  5
+B5
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.3772548913919936
+ 20
+0.766434478230733
+ 11
+-0.795689719984363
+ 21
+1.663771598510807
+  0
+LINE
+  5
+B6
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.4114414395150309
+ 20
+0.7486380997182815
+ 11
+-0.9064941557566695
+ 21
+1.606090410929286
+  0
+ARC
+  5
+B7
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+121.2073645035186
+ 51
+123.7926038162156
+  0
+LINE
+  5
+B8
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.4426184888514946
+ 20
+0.7306380333837131
+ 11
+-0.937669129805196
+ 21
+1.588091516730181
+  0
+LINE
+  5
+B9
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.4751238902502516
+ 20
+0.7099298214707335
+ 11
+-1.04302467450038
+ 21
+1.520972580582364
+  0
+ARC
+  5
+BA
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+126.2073645035186
+ 51
+128.7926038162156
+  0
+LINE
+  5
+BB
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.5046134923504851
+ 20
+0.689280991931337
+ 11
+-1.072512311368111
+ 21
+1.500325099591363
+  0
+LINE
+  5
+BC
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.5351903612930192
+ 20
+0.6658185486144466
+ 11
+-1.171617145675626
+ 21
+1.424279230508856
+  0
+ARC
+  5
+BD
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+131.2073645035186
+ 51
+133.7926038162156
+  0
+LINE
+  5
+BE
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.5627680824787312
+ 20
+0.6426781059311208
+ 11
+-1.199193026640875
+ 21
+1.40114030252359
+  0
+LINE
+  5
+BF
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.5911837105295713
+ 20
+0.6166399945709723
+ 11
+-1.291292902930505
+ 21
+1.316746255487864
+  0
+ARC
+  5
+C0
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+136.2073645035186
+ 51
+138.7926038162156
+  0
+LINE
+  5
+C1
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.6166396676906551
+ 20
+0.5911840514851185
+ 11
+-1.316747158888354
+ 21
+1.291291981721968
+  0
+LINE
+  5
+C2
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.6426777947625093
+ 20
+0.562768437831404
+ 11
+-1.401141141490111
+ 21
+1.199192046389481
+  0
+ARC
+  5
+C3
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+141.2073645035186
+ 51
+143.7926038162156
+  0
+LINE
+  5
+C4
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.665818252694242
+ 20
+0.5351907294406247
+ 11
+-1.424280050183022
+ 21
+1.171616149236024
+  0
+LINE
+  5
+C5
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.689280712917842
+ 20
+0.5046138734710652
+ 11
+-1.500325849930824
+ 21
+1.072511261726119
+  0
+ARC
+  5
+C6
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+146.2073645035185
+ 51
+148.7926038162155
+  0
+LINE
+  5
+C7
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7099295587627725
+ 20
+0.4751242827880898
+ 11
+-1.520973310291988
+ 21
+1.043023610413221
+  0
+LINE
+  5
+C8
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7306377886487962
+ 20
+0.4426188928394243
+ 11
+-1.588092172732046
+ 21
+0.9376680187610156
+  0
+ARC
+  5
+C9
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+151.2073645035185
+ 51
+153.7926038162155
+  0
+LINE
+  5
+CA
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7486378722219307
+ 20
+0.4114418534556514
+ 11
+-1.606091045120838
+ 21
+0.9064930321202992
+  0
+LINE
+  5
+CB
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7664342696369744
+ 20
+0.3772553151726808
+ 11
+-1.663772155182506
+ 21
+0.7956885559937115
+  0
+ARC
+  5
+CC
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+156.2073645035185
+ 51
+158.7926038162155
+  0
+LINE
+  5
+CD
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7816485994335732
+ 20
+0.3446281031830319
+ 11
+-1.678985457312031
+ 21
+0.7630634944974831
+  0
+LINE
+  5
+CE
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.79639772304755
+ 20
+0.3090205967644856
+ 11
+-1.726789826918933
+ 21
+0.6476534228654092
+  0
+ARC
+  5
+CF
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+161.2073645035185
+ 51
+163.7926038162155
+  0
+LINE
+  5
+D0
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8087105088311979
+ 20
+0.2751915249530519
+ 11
+-1.739101776373942
+ 21
+0.6138265829312058
+  0
+LINE
+  5
+D1
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8203001089076409
+ 20
+0.2384340450231747
+ 11
+-1.776665585408302
+ 21
+0.494689256125272
+  0
+ARC
+  5
+D2
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+166.2073645035185
+ 51
+168.7926038162155
+  0
+LINE
+  5
+D3
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8296176429438611
+ 20
+0.203660573052993
+ 11
+-1.785982480819283
+ 21
+0.4599180804301978
+  0
+LINE
+  5
+D4
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8379595156281966
+ 20
+0.1660328662288249
+ 11
+-1.813019846012702
+ 21
+0.3379602054444822
+  0
+ARC
+  5
+D5
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+171.2073645035186
+ 51
+173.7926038162156
+  0
+LINE
+  5
+D6
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8442108858568926
+ 20
+0.1305796412183845
+ 11
+-1.819270780179884
+ 21
+0.3025093236309865
+  0
+LINE
+  5
+D7
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8492415444610324
+ 20
+0.0923680770690882
+ 11
+-1.835575930857632
+ 21
+0.1786590735343082
+  0
+ARC
+  5
+D8
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+176.2073645035184
+ 51
+178.7926038162155
+  0
+LINE
+  5
+D9
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8523791741800832
+ 20
+0.056504919467961
+ 11
+-1.838713330397584
+ 21
+0.1427982882188195
+  0
+LINE
+  5
+DA
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8540603323544552
+ 20
+0.0180003110694857
+ 11
+-1.844162174517685
+ 21
+0.0179982381972407
+  0
+ARC
+  5
+DB
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+181.2073645035184
+ 51
+183.7926038162155
+  0
+LINE
+  5
+DC
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.854060342307146
+ 20
+-0.0179998388382168
+ 11
+-1.844162161925495
+ 21
+-0.0179995283906566
+  0
+LINE
+  5
+DD
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8523792054229323
+ 20
+-0.0565044481662405
+ 11
+-1.838713230494092
+ 21
+-0.1427995746001417
+  0
+ARC
+  5
+DE
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+186.2073645035185
+ 51
+188.7926038162154
+  0
+LINE
+  5
+DF
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8492415955335174
+ 20
+-0.0923676075022359
+ 11
+-1.835575805865594
+ 21
+-0.1786603577206674
+  0
+LINE
+  5
+E0
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8442109580575047
+ 20
+-0.1305791744331029
+ 11
+-1.819270568541035
+ 21
+-0.3025105964100763
+  0
+ARC
+  5
+E1
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+191.2073645035184
+ 51
+193.7926038162155
+  0
+LINE
+  5
+E2
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8379596074317831
+ 20
+-0.1660324029000767
+ 11
+-1.81301960957208
+ 21
+-0.3379614738503504
+  0
+LINE
+  5
+E3
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8296177555527461
+ 20
+-0.2036601143366682
+ 11
+-1.785982159055777
+ 21
+-0.4599193299204382
+  0
+ARC
+  5
+E4
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+196.2073645035184
+ 51
+198.7926038162154
+  0
+LINE
+  5
+E5
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8203002407436483
+ 20
+-0.2384335914587421
+ 11
+-1.776665239318552
+ 21
+-0.4946904990973151
+  0
+LINE
+  5
+E6
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.8087106609913344
+ 20
+-0.2751910777967923
+ 11
+-1.739101346934593
+ 21
+-0.613827799623221
+  0
+ARC
+  5
+E7
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+201.2073645035184
+ 51
+203.7926038162154
+  0
+LINE
+  5
+E8
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7963978939126265
+ 20
+-0.3090201564162675
+ 11
+-1.726789373814008
+ 21
+-0.647654630943859
+  0
+LINE
+  5
+E9
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7816487899869302
+ 20
+-0.3446276709899669
+ 11
+-1.678984923465132
+ 21
+-0.7630646691315123
+  0
+ARC
+  5
+EA
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+206.2073645035185
+ 51
+208.7926038162154
+  0
+LINE
+  5
+EB
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7664344782307335
+ 20
+-0.3772548913919933
+ 11
+-1.663771598510807
+ 21
+-0.7956897199843617
+  0
+LINE
+  5
+EC
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.748638099718282
+ 20
+-0.4114414395150306
+ 11
+-1.606090410929287
+ 21
+-0.9064941557566681
+  0
+ARC
+  5
+ED
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+211.2073645035184
+ 51
+213.7926038162154
+  0
+LINE
+  5
+EE
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.730638033383714
+ 20
+-0.4426184888514945
+ 11
+-1.588091516730182
+ 21
+-0.9376691298051946
+  0
+LINE
+  5
+EF
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.7099298214707339
+ 20
+-0.4751238902502514
+ 11
+-1.520972580582365
+ 21
+-1.043024674500379
+  0
+ARC
+  5
+F0
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+216.2073645035184
+ 51
+218.7926038162154
+  0
+LINE
+  5
+F1
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.6892809919313375
+ 20
+-0.5046134923504848
+ 11
+-1.500325099591363
+ 21
+-1.07251231136811
+  0
+LINE
+  5
+F2
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.6658185486144472
+ 20
+-0.5351903612930189
+ 11
+-1.424279230508857
+ 21
+-1.171617145675625
+  0
+ARC
+  5
+F3
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+221.7279289418317
+ 51
+223.2720405872602
+  0
+LINE
+  5
+F4
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.6486513951941062
+ 20
+-0.5677802641045766
+ 11
+-1.401140302523591
+ 21
+-1.199193026640873
+  0
+LINE
+  5
+F5
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.6221536871710374
+ 20
+-0.5966974262165621
+ 11
+-1.316746255487864
+ 21
+-1.291292902930504
+  0
+ARC
+  5
+F6
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+226.7279289418317
+ 51
+228.2720405872602
+  0
+LINE
+  5
+F7
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.5966977701666862
+ 20
+-0.6221533829145571
+ 11
+-1.291291981721969
+ 21
+-1.316747158888354
+  0
+LINE
+  5
+F8
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.5677805971804972
+ 20
+-0.6486510790705153
+ 11
+-1.199192046389482
+ 21
+-1.401141141490109
+  0
+ARC
+  5
+F9
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+231.7279289418317
+ 51
+233.2720405872602
+  0
+LINE
+  5
+FA
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.5402029148123332
+ 20
+-0.6717915388140743
+ 11
+-1.171616149236025
+ 21
+-1.424280050183021
+  0
+LINE
+  5
+FB
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.5090863540101158
+ 20
+-0.6956681055465121
+ 11
+-1.07251126172612
+ 21
+-1.500325849930823
+  0
+ARC
+  5
+FC
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+236.7279289418317
+ 51
+238.2720405872602
+  0
+LINE
+  5
+FD
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.4795967890928205
+ 20
+-0.7163169554643949
+ 11
+-1.043023610413223
+ 21
+-1.520973310291988
+  0
+LINE
+  5
+FE
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.4465176562909722
+ 20
+-0.737390677683413
+ 11
+-0.9376680187610169
+ 21
+-1.588092172732046
+  0
+ARC
+  5
+FF
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+241.7279289418317
+ 51
+243.2720405872602
+  0
+LINE
+  5
+100
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.4153406422198524
+ 20
+-0.7553907675596276
+ 11
+-0.9064930321203001
+ 21
+-1.606091045120837
+  0
+LINE
+  5
+101
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.380550689592722
+ 20
+-0.7735012615144784
+ 11
+-0.7956885559937131
+ 21
+-1.663772155182506
+  0
+ARC
+  5
+102
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+246.7279289418317
+ 51
+248.2720405872602
+  0
+LINE
+  5
+103
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.3479235022700544
+ 20
+-0.7887155997963159
+ 11
+-0.7630634944974845
+ 21
+-1.67898545731203
+  0
+LINE
+  5
+104
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.3116875023638824
+ 20
+-0.8037250336925875
+ 11
+-0.6476534228654107
+ 21
+-1.726789826918933
+  0
+ARC
+  5
+105
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+251.7279289418317
+ 51
+253.2720405872602
+  0
+LINE
+  5
+106
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.2778584543860272
+ 20
+-0.8160378300790538
+ 11
+-0.6138265829312075
+ 21
+-1.739101776373941
+  0
+LINE
+  5
+107
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.2404521850399939
+ 20
+-0.8278319730618519
+ 11
+-0.4946892561252742
+ 21
+-1.776665585408302
+  0
+ARC
+  5
+108
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+256.7279289418317
+ 51
+258.2720405872602
+  0
+LINE
+  5
+109
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.2056787358886002
+ 20
+-0.8371495197377768
+ 11
+-0.4599180804301993
+ 21
+-1.785982480819283
+  0
+LINE
+  5
+10A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.1673868813989524
+ 20
+-0.8456386112575036
+ 11
+-0.3379602054444836
+ 21
+-1.813019846012702
+  0
+ARC
+  5
+10B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+261.7279289418316
+ 51
+263.2720405872602
+  0
+LINE
+  5
+10C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.1319336780188446
+ 20
+-0.8518899960665949
+ 11
+-0.3025093236309879
+ 21
+-1.819270780179884
+  0
+LINE
+  5
+10D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.09304766251950231
+ 20
+-0.8570094290109314
+ 11
+-0.17865907353431
+ 21
+-1.835575930857632
+  0
+ARC
+  5
+10E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.85425
+100
+AcDbArc
+ 50
+266.7279289418316
+ 51
+268.2720405872602
+  0
+LINE
+  5
+10F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.057184525195633
+ 20
+-0.8601470751401024
+ 11
+-0.1427982882188209
+ 21
+-1.838713330397584
+  0
+LINE
+  5
+110
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+-0.0180002947445641
+ 20
+-0.8618578875331449
+ 11
+-0.0179982381972421
+ 21
+-1.844162174517685
+  0
+ARC
+  5
+111
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.0260002947445466
+ 20
+-0.8618579042819046
+ 40
+0.008
+100
+AcDbArc
+ 50
+0.000119954156112
+ 51
+88.27204058726007
+  0
+ARC
+  5
+112
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.0492149678295216
+ 20
+-0.8608443235809474
+ 40
+0.008
+100
+AcDbArc
+ 50
+86.72792894183152
+ 51
+174.9999820348435
+  0
+ARC
+  5
+113
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.1010172215639696
+ 20
+-0.8563121997539774
+ 40
+0.008
+100
+AcDbArc
+ 50
+355.000119954156
+ 51
+83.27204058726035
+  0
+ARC
+  5
+114
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.1240552164303279
+ 20
+-0.8532791839582311
+ 40
+0.008
+100
+AcDbArc
+ 50
+81.72792894183164
+ 51
+169.9999820348426
+  0
+ARC
+  5
+115
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.1752653463314244
+ 20
+-0.8442494423304797
+ 40
+0.008
+100
+AcDbArc
+ 50
+350.0001199541563
+ 51
+78.27204058726002
+  0
+ARC
+  5
+116
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.1979513299275121
+ 20
+-0.839220074521534
+ 40
+0.008
+100
+AcDbArc
+ 50
+76.72792894183175
+ 51
+164.9999820348426
+  0
+ARC
+  5
+117
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.2481795959851879
+ 20
+-0.8257614368790959
+ 40
+0.008
+100
+AcDbArc
+ 50
+345.0001199541568
+ 51
+73.27204058725972
+  0
+ARC
+  5
+118
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.2703409142776667
+ 20
+-0.8187739935827927
+ 40
+0.008
+100
+AcDbArc
+ 50
+71.72792894183139
+ 51
+159.9999820348427
+  0
+ARC
+  5
+119
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.3192050490585662
+ 20
+-0.8009888882846743
+ 40
+0.008
+100
+AcDbArc
+ 50
+340.0001199541565
+ 51
+68.27204058725978
+  0
+ARC
+  5
+11A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.3406730410338613
+ 20
+-0.7920965481636322
+ 40
+0.008
+100
+AcDbArc
+ 50
+66.72792894183186
+ 51
+154.9999820348423
+  0
+ARC
+  5
+11B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.387801158967331
+ 20
+-0.7701203306000919
+ 40
+0.008
+100
+AcDbArc
+ 50
+335.000119954157
+ 51
+63.27204058726019
+  0
+ARC
+  5
+11C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.4084124402437816
+ 20
+-0.7593907697319737
+ 40
+0.008
+100
+AcDbArc
+ 50
+61.72792894183166
+ 51
+149.9999820348427
+  0
+ARC
+  5
+11D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.4534458678956126
+ 20
+-0.7333906921882734
+ 40
+0.008
+100
+AcDbArc
+ 50
+330.0001199541566
+ 51
+58.27204058726015
+  0
+ARC
+  5
+11E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.4730435741772733
+ 20
+-0.7209055690099715
+ 40
+0.008
+100
+AcDbArc
+ 50
+56.72792894183166
+ 51
+144.9999820348424
+  0
+ARC
+  5
+11F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.5156395799711072
+ 20
+-0.6910795077754948
+ 40
+0.008
+100
+AcDbArc
+ 50
+325.000119954156
+ 51
+53.27204058726036
+  0
+ARC
+  5
+120
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.534074560879756
+ 20
+-0.6769338416131192
+ 40
+0.008
+100
+AcDbArc
+ 50
+51.72792894183202
+ 51
+139.9999820348426
+  0
+ARC
+  5
+121
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.5739089634913308
+ 20
+-0.6435087910233286
+ 40
+0.008
+100
+AcDbArc
+ 50
+320.0001199541564
+ 51
+48.27204058726036
+  0
+ARC
+  5
+122
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.5910409176909072
+ 20
+-0.6278102389377624
+ 40
+0.008
+100
+AcDbArc
+ 50
+46.72792894183157
+ 51
+134.9999820348426
+  0
+ARC
+  5
+123
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.6278105532636788
+ 20
+-0.5910405838102437
+ 40
+0.008
+100
+AcDbArc
+ 50
+315.0001199541562
+ 51
+43.27204058726006
+  0
+ARC
+  5
+124
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbCircle
+ 10
+-0.6435090962381669
+ 20
+-0.5739086212619023
+ 40
+0.008
+100
+AcDbArc
+ 50
+41.72792894183162
+ 51
+129.999982034843
+  0
+LINE
+  5
+125
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0.7351259999999978
+ 20
+-0.7605830000000022
+ 11
+0.6945109999999981
+ 21
+-0.779522000000002
+  0
+LINE
+  5
+126
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0
+ 20
+-0.8340603709
+ 11
+0
+ 21
+-0.85425
+  0
+LINE
+  5
+127
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbLine
+ 10
+0
+ 20
+-0.8340603709
+ 11
+0.0179995913599861
+ 21
+-0.8340603708999998
+  0
+ARC
+  5
+128
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+1.84425
+100
+AcDbArc
+ 50
+269.4408353221846
+ 51
+285.6382611055821
+  0
+ARC
+  5
+129
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-1.3884e-012
+ 20
+7.794e-013
+ 40
+1.844250000001592
+100
+AcDbArc
+ 50
+329.4408353221858
+ 51
+330.5592047624884
+  0
+ARC
+  5
+12A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-9.059e-013
+ 20
+4.126e-013
+ 40
+1.844250000000996
+100
+AcDbArc
+ 50
+334.4408353221853
+ 51
+335.5592047624882
+  0
+ARC
+  5
+12B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-4.452e-012
+ 20
+1.6105e-012
+ 40
+1.844250000004734
+100
+AcDbArc
+ 50
+339.4408353221864
+ 51
+340.5592047624871
+  0
+ARC
+  5
+12C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+1.3329e-012
+ 20
+-3.673e-013
+ 40
+1.844249999998618
+100
+AcDbArc
+ 50
+344.4408353221846
+ 51
+345.5592047624889
+  0
+ARC
+  5
+12D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+3.322e-013
+ 20
+-7.83e-014
+ 40
+1.844249999999659
+100
+AcDbArc
+ 50
+349.4408353221851
+ 51
+350.5592047624889
+  0
+ARC
+  5
+12E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-1.265e-012
+ 20
+9.94e-014
+ 40
+1.844250000001269
+100
+AcDbArc
+ 50
+354.4408353221854
+ 51
+355.5592047624882
+  0
+ARC
+  5
+12F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-4.765e-013
+ 20
+-1.22e-014
+ 40
+1.844250000000477
+100
+AcDbArc
+ 50
+359.4408353221851
+ 51
+0.5592047624884937
+  0
+ARC
+  5
+130
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-7.463e-013
+ 20
+-7.52e-014
+ 40
+1.84425000000075
+100
+AcDbArc
+ 50
+4.440835322185236
+ 51
+5.559204762488373
+  0
+ARC
+  5
+131
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-2.925e-012
+ 20
+-5.366e-013
+ 40
+1.844250000002974
+100
+AcDbArc
+ 50
+9.440835322186235
+ 51
+10.55920476248802
+  0
+ARC
+  5
+132
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+1.541e-013
+ 20
+1.74e-014
+ 40
+1.844249999999847
+100
+AcDbArc
+ 50
+14.44083532218536
+ 51
+15.55920476248905
+  0
+ARC
+  5
+133
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-8.342e-013
+ 20
+-3.315e-013
+ 40
+1.844250000000897
+100
+AcDbArc
+ 50
+19.44083532218578
+ 51
+20.55920476248883
+  0
+ARC
+  5
+134
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-5.558e-013
+ 20
+-2.806e-013
+ 40
+1.844250000000623
+100
+AcDbArc
+ 50
+24.44083532218548
+ 51
+25.5592047624887
+  0
+ARC
+  5
+135
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-4.529e-012
+ 20
+-2.6388e-012
+ 40
+1.844250000005242
+100
+AcDbArc
+ 50
+29.44083532218692
+ 51
+30.55920476248733
+  0
+ARC
+  5
+136
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+4.092e-013
+ 20
+2.56e-013
+ 40
+1.844249999999518
+100
+AcDbArc
+ 50
+34.44083532218532
+ 51
+35.5592047624892
+  0
+ARC
+  5
+137
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+8.749e-013
+ 20
+7.274e-013
+ 40
+1.844249999998863
+100
+AcDbArc
+ 50
+39.4408353221845
+ 51
+40.55920476248878
+  0
+ARC
+  5
+138
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-3.2068e-012
+ 20
+-3.2212e-012
+ 40
+1.844250000004546
+100
+AcDbArc
+ 50
+44.44083532218637
+ 51
+45.55920476248721
+  0
+ARC
+  5
+139
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-1.6707e-012
+ 20
+-2.0008e-012
+ 40
+1.844250000002607
+100
+AcDbArc
+ 50
+49.44083532218567
+ 51
+50.55920476248767
+  0
+ARC
+  5
+13A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-4.823e-013
+ 20
+-7.185e-013
+ 40
+1.844250000000866
+100
+AcDbArc
+ 50
+54.44083532218546
+ 51
+55.55920476248854
+  0
+ARC
+  5
+13B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+6.63e-013
+ 20
+1.1178e-012
+ 40
+1.844249999998701
+100
+AcDbArc
+ 50
+59.44083532218475
+ 51
+60.55920476248914
+  0
+ARC
+  5
+13C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-9.049e-013
+ 20
+-1.9524e-012
+ 40
+1.844250000002152
+100
+AcDbArc
+ 50
+64.44083532218548
+ 51
+65.55920476248777
+  0
+ARC
+  5
+13D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-8.435e-013
+ 20
+-2.3579e-012
+ 40
+1.844250000002504
+100
+AcDbArc
+ 50
+69.44083532218586
+ 51
+70.55920476248794
+  0
+ARC
+  5
+13E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-3.557e-013
+ 20
+-1.4029e-012
+ 40
+1.844250000001448
+100
+AcDbArc
+ 50
+74.44083532218571
+ 51
+75.55920476248842
+  0
+ARC
+  5
+13F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+7.98e-014
+ 20
+3.322e-013
+ 40
+1.844249999999659
+100
+AcDbArc
+ 50
+79.44083532218522
+ 51
+80.55920476248902
+  0
+ARC
+  5
+140
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+9.29e-014
+ 20
+1.0472e-012
+ 40
+1.844249999998949
+100
+AcDbArc
+ 50
+84.44083532218438
+ 51
+85.55920476248862
+  0
+ARC
+  5
+141
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+1.36e-014
+ 20
+-4.761e-013
+ 40
+1.844250000000477
+100
+AcDbArc
+ 50
+89.44083532218524
+ 51
+90.55920476248853
+  0
+ARC
+  5
+142
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+7.7e-014
+ 20
+-7.516e-013
+ 40
+1.844250000000756
+100
+AcDbArc
+ 50
+94.44083532218524
+ 51
+95.55920476248838
+  0
+ARC
+  5
+143
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+7.502e-013
+ 20
+-4.1414e-012
+ 40
+1.844250000004209
+100
+AcDbArc
+ 50
+99.44083532218653
+ 51
+100.5592047624876
+  0
+ARC
+  5
+144
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+2.727e-013
+ 20
+-1.0094e-012
+ 40
+1.844250000001046
+100
+AcDbArc
+ 50
+104.4408353221851
+ 51
+105.559204762488
+  0
+ARC
+  5
+145
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+6.047e-013
+ 20
+-1.5934e-012
+ 40
+1.844250000001705
+100
+AcDbArc
+ 50
+109.4408353221859
+ 51
+110.5592047624885
+  0
+ARC
+  5
+146
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+6.911e-013
+ 20
+-1.4453e-012
+ 40
+1.844250000001603
+100
+AcDbArc
+ 50
+114.4408353221856
+ 51
+115.5592047624883
+  0
+ARC
+  5
+147
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+6.342e-013
+ 20
+-1.0554e-012
+ 40
+1.844250000001232
+100
+AcDbArc
+ 50
+119.4408353221857
+ 51
+120.5592047624886
+  0
+ARC
+  5
+148
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-1.021e-012
+ 20
+1.4919e-012
+ 40
+1.844249999998193
+100
+AcDbArc
+ 50
+124.4408353221847
+ 51
+125.5592047624894
+  0
+ARC
+  5
+149
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+2.3581e-012
+ 20
+-2.7875e-012
+ 40
+1.844250000003652
+100
+AcDbArc
+ 50
+129.4408353221862
+ 51
+130.5592047624876
+  0
+ARC
+  5
+14A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+2.053e-012
+ 20
+-2.0259e-012
+ 40
+1.844250000002885
+100
+AcDbArc
+ 50
+134.4408353221861
+ 51
+135.559204762488
+  0
+ARC
+  5
+14B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-7.097e-013
+ 20
+6.239e-013
+ 40
+1.844249999999056
+100
+AcDbArc
+ 50
+139.4408353221851
+ 51
+140.5592047624892
+  0
+ARC
+  5
+14C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+6.77e-013
+ 20
+-4.521e-013
+ 40
+1.844250000000815
+100
+AcDbArc
+ 50
+144.4408353221855
+ 51
+145.5592047624885
+  0
+ARC
+  5
+14D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-1.1182e-012
+ 20
+6.641e-013
+ 40
+1.844249999998701
+100
+AcDbArc
+ 50
+149.4408353221848
+ 51
+150.5592047624891
+  0
+ARC
+  5
+14E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+2.9492e-012
+ 20
+-1.3627e-012
+ 40
+1.84425000000325
+100
+AcDbArc
+ 50
+154.440835322186
+ 51
+155.5592047624876
+  0
+ARC
+  5
+14F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+1.0705e-012
+ 20
+-3.813e-013
+ 40
+1.844250000001137
+100
+AcDbArc
+ 50
+159.4408353221852
+ 51
+160.5592047624882
+  0
+ARC
+  5
+150
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-2.5384e-012
+ 20
+6.866e-013
+ 40
+1.844249999997372
+100
+AcDbArc
+ 50
+164.4408353221841
+ 51
+165.5592047624892
+  0
+ARC
+  5
+151
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+1.9325e-012
+ 20
+-3.3e-013
+ 40
+1.844250000001961
+100
+AcDbArc
+ 50
+169.4408353221856
+ 51
+170.559204762488
+  0
+ARC
+  5
+152
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+5.707e-012
+ 20
+-4.848e-013
+ 40
+1.844250000005728
+100
+AcDbArc
+ 50
+174.4408353221868
+ 51
+175.559204762487
+  0
+ARC
+  5
+153
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+4.645e-013
+ 20
+1.45e-014
+ 40
+1.844250000000466
+100
+AcDbArc
+ 50
+179.4408353221852
+ 51
+180.5592047624885
+  0
+ARC
+  5
+154
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-4.0947e-012
+ 20
+-3.45e-013
+ 40
+1.844249999995892
+100
+AcDbArc
+ 50
+184.4408353221837
+ 51
+185.5592047624898
+  0
+ARC
+  5
+155
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-3.044e-012
+ 20
+-5.251e-013
+ 40
+1.844249999996912
+100
+AcDbArc
+ 50
+189.440835322184
+ 51
+190.5592047624894
+  0
+ARC
+  5
+156
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+2.0173e-012
+ 20
+5.557e-013
+ 40
+1.844250000002094
+100
+AcDbArc
+ 50
+194.4408353221856
+ 51
+195.559204762488
+  0
+ARC
+  5
+157
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-1.7415e-012
+ 20
+-6.116e-013
+ 40
+1.844249999998156
+100
+AcDbArc
+ 50
+199.4408353221846
+ 51
+200.5592047624893
+  0
+ARC
+  5
+158
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-4.743e-013
+ 20
+-2.139e-013
+ 40
+1.844249999999481
+100
+AcDbArc
+ 50
+204.4408353221846
+ 51
+205.5592047624885
+  0
+ARC
+  5
+159
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+1.0456e-012
+ 20
+6.302e-013
+ 40
+1.844250000001222
+100
+AcDbArc
+ 50
+209.4408353221856
+ 51
+210.5592047624885
+  0
+ARC
+  5
+15A
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+6.952e-013
+ 20
+5.123e-013
+ 40
+1.844250000000865
+100
+AcDbArc
+ 50
+214.4408353221855
+ 51
+215.5592047624885
+  0
+ARC
+  5
+15B
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+2.929e-013
+ 20
+2.458e-013
+ 40
+1.844250000000384
+100
+AcDbArc
+ 50
+219.4408353221847
+ 51
+220.559204762488
+  0
+ARC
+  5
+15C
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+8.791e-013
+ 20
+8.971e-013
+ 40
+1.844250000001257
+100
+AcDbArc
+ 50
+224.4408353221854
+ 51
+225.5592047624882
+  0
+ARC
+  5
+15D
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+1.8721e-012
+ 20
+2.2424e-012
+ 40
+1.844250000002922
+100
+AcDbArc
+ 50
+229.4408353221856
+ 51
+230.5592047624874
+  0
+ARC
+  5
+15E
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-3.164e-013
+ 20
+-4.29e-013
+ 40
+1.844249999999468
+100
+AcDbArc
+ 50
+234.4408353221848
+ 51
+235.5592047624887
+  0
+ARC
+  5
+15F
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-1.2405e-012
+ 20
+-2.1019e-012
+ 40
+1.844249999997561
+100
+AcDbArc
+ 50
+239.4408353221845
+ 51
+240.5592047624896
+  0
+ARC
+  5
+160
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+8.784e-013
+ 20
+1.9496e-012
+ 40
+1.844250000002139
+100
+AcDbArc
+ 50
+244.440835322186
+ 51
+245.5592047624883
+  0
+ARC
+  5
+161
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+3.836e-013
+ 20
+1.0809e-012
+ 40
+1.844250000001148
+100
+AcDbArc
+ 50
+249.4408353221852
+ 51
+250.5592047624881
+  0
+ARC
+  5
+162
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+7.925e-013
+ 20
+2.9876e-012
+ 40
+1.844250000003092
+100
+AcDbArc
+ 50
+254.4408353221857
+ 51
+255.5592047624874
+  0
+ARC
+  5
+163
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+3.286e-013
+ 20
+1.9325e-012
+ 40
+1.844250000001961
+100
+AcDbArc
+ 50
+259.4408353221855
+ 51
+260.5592047624879
+  0
+ARC
+  5
+164
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+-9.48e-014
+ 20
+-1.0423e-012
+ 40
+1.844249999998955
+100
+AcDbArc
+ 50
+264.4408353221843
+ 51
+265.5592047624885
+  0
+ARC
+  5
+165
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+1.84425
+100
+AcDbArc
+ 50
+294.4407875683049
+ 51
+295.5592996039275
+  0
+ARC
+  5
+166
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+1.84425
+100
+AcDbArc
+ 50
+304.3618956643591
+ 51
+320.5592047624883
+  0
+ARC
+  5
+167
+100
+AcDbEntity
+  8
+FINISH ID - G42 - 540203
+  6
+CONTINUOUS
+ 62
+    3
+370
+   -3
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+1.84425
+100
+AcDbArc
+ 50
+324.4408353221847
+ 51
+325.5592047624882
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+    1
+  3
+ACAD_GROUP
+350
+D
+  0
+DICTIONARY
+  5
+D
+330
+C
+100
+AcDbDictionary
+281
+    1
+  0
+ENDSEC
+  0
+EOF
