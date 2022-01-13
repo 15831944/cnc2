@@ -12,7 +12,7 @@
 	#define SOFT_WDT
 #else
 	#define VER_TYPE (2) // 0 - stable, 1 - alpha, 2 - beta
-	#define PRINT
+//	#define PRINT
 //	#define SOFT_WDT
 #endif
 
@@ -26,11 +26,12 @@
 #define FAC_VER (0)
 #define FAC_REV (2) // CNC2
 #define VER (2)
-#define REV (15)
+#define REV (16)
 
 // 0.2.2.10 - semaphore unblocked at the start with error
 // 0.2.2.11 - corrected feedback calculation error
 // 0.2.2.12 - PID for V
+// 0.2.2.16 - it was made the slowest speed 0.01 mm/min
 
 ///////////////////////////////////////
 #define FPGA_CLOCK (72e6) // Hz
@@ -48,10 +49,12 @@
 #define T_DEFAULT_TICK	( FPGA_CLOCK / (F_DEFAULT_UMS * 1e-3) ) // 240,000,000 clocks/mm
 #define T_ROLLBACK_DEFAULT_TICK	( FPGA_CLOCK / (F_ROLLBACK_DEFAULT_UMS * 1e-3) ) // 2,400,000,000 clocks/mm
 
-#define F_MIN_UMS (1) // um/sec
-#define F_MAX_UMS (F_DEFAULT_UMS) // um/sec
-#define F_MIN_MMM ( F_MIN_UMS * 60.0 * 1e-3 ) // mm / min
-#define F_MAX_MMM ( F_MAX_UMS * 60.0 * 1e-3 ) // mm / min
+#define F_MIN_MMM ( 0.01 ) // mm/min. Minimum speed
+#define F_MAX_MMM ( 18 ) // mm/min. Maximum speed
+
+#define MMM_TO_UMS(_MMM) ((_MMM) * (1000.0 / 60.0))
+#define F_MIN_UMS ( MMM_TO_UMS(F_MIN_MMM) ) // um/sec. Minimum speed
+#define F_MAX_UMS ( MMM_TO_UMS(F_MAX_MMM) ) // um/sec. Maximum speed
 
 #define COE_UMSEC2_TO_MMTICK2 ( 1e-3 / (FPGA_CLOCK * FPGA_CLOCK) )
 #define COE_UMS_TO_MMTICK ( 1e-3 / FPGA_CLOCK )

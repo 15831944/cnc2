@@ -5,6 +5,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Work\Meatec\Main\cnc2\TrueStudio\cnc2"/>
 			<item value="C:\Work\Meatec\Main\cnc2\TrueStudio\cnc2 v2.15"/>
 			<item value="C:\Work\Meatec\Main\cnc2\TrueStudio\cnc2 v2.14"/>
 			<item value="C:\Work\Meatec\Main\cnc2\TrueStudio\cnc2 v2.13"/>
