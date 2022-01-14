@@ -95,6 +95,7 @@ float cnc_getT();
 float cnc_getCurrentT();
 float cnc_getSpeed();
 void cnc_setSpeed(float F);
+float cnc_speed();
 
 void cnc_task_tb();
 
@@ -111,6 +112,7 @@ void cnc_turnOff();
 void cnc_turnOn();
 
 void cnc_reset();
+BOOL cnc_isInit();
 
 BOOL cnc_isRollback();
 BOOL cnc_isReverse();

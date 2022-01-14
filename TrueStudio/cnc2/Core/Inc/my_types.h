@@ -75,7 +75,8 @@ typedef union {
         uint32_t wire_ena:1;
         uint32_t voltage_ena:1;
         uint32_t hold_ena:1;
-        uint32_t :2;
+        uint32_t :1;
+        uint32_t is_init:1;
 
         uint32_t drum_vel:8;
 

@@ -91,8 +91,8 @@ void ad_writeRegs(size_t addr, size_t len, const uint8_t buf[], size_t N) {
 					case 0x23: gpo_setCurrentIndex(wrdata); break;
 					case 0x24: gpo_setPulseWidth(wrdata); break;
 					case 0x25: gpo_setPulseRatio(wrdata); break;
-					case 0x26: cnc_setSpeed( (double)(*pfloat) ); break;
-					case 0x27: cnc_setStep(*pfloat); break;
+					case 0x26: cnc_setSpeed(*pfloat); break;
+					case 0x27: /*cnc_setStep(*pfloat);*/ break;
 					// TODO: enc_ena
 
 					// Settings
@@ -136,8 +136,12 @@ void ad_writeRegs(size_t addr, size_t len, const uint8_t buf[], size_t N) {
 					case 0x42: cnc_setParam(2, *p32); break;
 					case 0x43: cnc_setParam(3, *p32); break;
 					case 0x44: cnc_setParam(4, *p32); break;
-					case 0x45: cnc_setParam(5, *p32);
-						cnc_reqG92();
+					case 0x45:
+						cnc_setParam(5, *p32);
+
+						if (cnc_isInit()) {
+							cnc_reqG92();
+						}
 						break;
 
 					case 0x50: cnc_setParam(0, *p32); break;
@@ -147,8 +151,12 @@ void ad_writeRegs(size_t addr, size_t len, const uint8_t buf[], size_t N) {
 					case 0x54: cnc_setParam(4, *p32); break;
 					case 0x55: cnc_setParam(5, *p32); break;
 					case 0x56: cnc_setParam(6, *p32); break;
-					case 0x57: cnc_setParam(7, *p32);
-						cnc_reqG1();
+					case 0x57:
+						cnc_setParam(7, *p32);
+
+						if (cnc_isInit()) {
+							cnc_reqG1();
+						}
 						break;
 
 					case 0x70: center.mode		= (CENTER_MODE_T)bytes[0];
@@ -260,6 +268,16 @@ void ad_readRegs(uint32_t addr, size_t len) {
 					case 0x1C: // limsw, semaphore, feedback
 						rddata = cnc_ctx_get(12);
 						break;
+
+					case 0x26: *pfloat = cnc_speed(); break;
+					case 0x27: *pfloat = cnc_step(); break;
+					case 0x28: *pfloat = SCALE; break;
+					case 0x29: *pfloat = SCALE; break;
+					case 0x2A: *pfloat = SCALE_UV; break;
+					case 0x2B: *pfloat = SCALE_UV; break;
+					case 0x2C: *pfloat = SCALE_ENC; break;
+					case 0x2D: *pfloat = SCALE_ENC; break;
+					case 0x2E: rddata = 0;
 
 					// Settings
 					case 0x30:

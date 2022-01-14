@@ -31,7 +31,7 @@
 // 0.2.2.10 - semaphore unblocked at the start with error
 // 0.2.2.11 - corrected feedback calculation error
 // 0.2.2.12 - PID for V
-// 0.2.2.16 - it was made the slowest speed 0.01 mm/min
+// 0.2.2.16 - changed the slowest speed to 0.01 mm/min, added is_init in context
 
 ///////////////////////////////////////
 #define FPGA_CLOCK (72e6) // Hz

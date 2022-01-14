@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="fpga_setSoftAlarm" key="selection"/>
+		<item value="" key="selection"/>
 		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="exit"/>
+			<item value="isInit"/>
+			<item value="cnc_setSpeed"/>
 			<item value="fpga_setSoftAlarm"/>
 			<item value="gpo_setDrumState"/>
 			<item value="gpo_switchPumpKey"/>
 			<item value="Pump"/>
 			<item value="Drum"/>
-			<item value="gpo_setPumpEnable"/>
-			<item value="gpo_setSoftAlarm"/>
-			<item value="gpo_setPumpEnableM"/>
 		</list>
 		<list key="replacehistory">
 			<item value="gpo_setPumpEnable"/>

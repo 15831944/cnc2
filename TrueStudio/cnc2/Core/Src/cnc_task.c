@@ -1507,6 +1507,9 @@ void cnc_setSpeed(float F) {
 	cnc_setSpeedT( speed_to_period(F) );
 }
 
+// mm / min
+float cnc_speed() { return (FPGA_CLOCK * 60.0) / T  ; }
+
 void cnc_printState() {
 	fpga_snapMotor();
 	int id = fpga_getTaskID();

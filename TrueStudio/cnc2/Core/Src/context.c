@@ -42,6 +42,7 @@ cnc_context_t* cnc_ctx_getForce() {
 	cnc_ctx.field.wire_ena = limsw_mask_reg.field.wire_ctrl;
 	cnc_ctx.field.voltage_ena = data32_reg.field.voltage_ena;
 	cnc_ctx.field.hold_ena = hold_ena;
+	cnc_ctx.field.is_init = cnc_isInit();
 
 	cnc_ctx.field.drum_vel = data32_reg.field.drum_vel;
 	cnc_ctx.field.voltage_level = data32_reg.field.voltage_level;

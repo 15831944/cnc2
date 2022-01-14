@@ -1,0 +1,8 @@
+Warning (10273): Verilog HDL warning at mcu_amux_mem.sv(19): extended using "x" or "z" File: C:/Work/Meatec/Main/cnc2/Quartus/cnc2 (c16)/mcu_amux_mem.sv Line: 19
+Info (10281): Verilog HDL Declaration information at piso.sv(81): object "lock" differs only in case from object "LOCK" in the same scope File: C:/Work/Meatec/Main/cnc2/Quartus/cnc2 (c16)/piso.sv Line: 81
+Info (10281): Verilog HDL Declaration information at ctrl_bus.sv(95): object "HV_ENA_PRESCALE" differs only in case from object "hv_ena_prescale" in the same scope File: C:/Work/Meatec/Main/cnc2/Quartus/cnc2 (c16)/ctrl_bus.sv Line: 95
+Info (10281): Verilog HDL Declaration information at ctrl_bus.sv(96): object "HV_ENA_LENGTH" differs only in case from object "hv_ena_length" in the same scope File: C:/Work/Meatec/Main/cnc2/Quartus/cnc2 (c16)/ctrl_bus.sv Line: 96
+Info (10281): Verilog HDL Declaration information at pls_cont.sv(8): object "oi" differs only in case from object "OI" in the same scope File: C:/Work/Meatec/Main/cnc2/Quartus/cnc2 (c16)/pls_cont.sv Line: 8
+Info (10281): Verilog HDL Declaration information at pls_cont.sv(15): object "run" differs only in case from object "RUN" in the same scope File: C:/Work/Meatec/Main/cnc2/Quartus/cnc2 (c16)/pls_cont.sv Line: 15
+Info (10281): Verilog HDL Declaration information at adc_MCP3008.sv(21): object "sample" differs only in case from object "SAMPLE" in the same scope File: C:/Work/Meatec/Main/cnc2/Quartus/cnc2 (c16)/adc_MCP3008.sv Line: 21
+Info (10281): Verilog HDL Declaration information at top.sv(140): object "MAX" differs only in case from object "max" in the same scope File: C:/Work/Meatec/Main/cnc2/Quartus/cnc2 (c16)/top.sv Line: 140
