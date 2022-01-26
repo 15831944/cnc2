@@ -12,8 +12,8 @@ float velocity(float v0, float acc, float d);
 
 void cnc_resetParam();
 
-void cnc_setStep(float value);
-float cnc_step();
+void cnc_setStep(double value);
+double cnc_step();
 
 void cnc_setAcc(float value);
 void cnc_setDec(float value);

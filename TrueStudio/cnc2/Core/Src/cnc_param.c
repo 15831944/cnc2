@@ -38,12 +38,14 @@ void cnc_resetParam() {
 BOOL cnc_isIdle();
 
 // mm
-void cnc_setStep(float value) {
-	if (cnc_isIdle())
+void cnc_setStep(double value) {
+	if (cnc_isIdle()) {
 		step = value < STEP_MIN ? STEP_MIN : value;
+		step = round(step * 1e6) * 1e-6;
+	}
 }
 // mm
-float cnc_step() { return step; }
+double cnc_step() { return step; }
 
 // um/s^2
 void cnc_setAcc(float value) { acc = value * COE_UMSEC2_TO_MMTICK2; }

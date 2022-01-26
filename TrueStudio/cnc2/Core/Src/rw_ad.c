@@ -270,14 +270,14 @@ void ad_readRegs(uint32_t addr, size_t len) {
 						break;
 
 					case 0x26: *pfloat = cnc_speed(); break;
-					case 0x27: *pfloat = cnc_step(); break;
-					case 0x28: *pfloat = SCALE; break;
-					case 0x29: *pfloat = SCALE; break;
-					case 0x2A: *pfloat = SCALE_UV; break;
-					case 0x2B: *pfloat = SCALE_UV; break;
-					case 0x2C: *pfloat = SCALE_ENC; break;
-					case 0x2D: *pfloat = SCALE_ENC; break;
-					case 0x2E: rddata = 0;
+					case 0x27: *pfloat = (float)cnc_step(); break;
+					case 0x28: *pfloat = (float)SCALE; break;
+					case 0x29: *pfloat = (float)SCALE; break;
+					case 0x2A: *pfloat = (float)SCALE_UV; break;
+					case 0x2B: *pfloat = (float)SCALE_UV; break;
+					case 0x2C: *pfloat = (float)SCALE_ENC; break;
+					case 0x2D: *pfloat = (float)SCALE_ENC; break;
+					case 0x2E: rddata = 0; break;
 
 					// Settings
 					case 0x30:

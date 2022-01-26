@@ -53,7 +53,7 @@ cnc_context_t* cnc_ctx_getForce() {
 
 	cnc_ctx.field.T = cnc_getT();
 	cnc_ctx.field.T_cur = cnc_getCurrentT();
-	cnc_ctx.field.step = cnc_step();
+	cnc_ctx.field.step = (float)cnc_step();
 
 	uint16_t limsw_reg = fpga_getLimSwReg();
 	cnc_ctx.field.limsw_fwd		= (limsw_reg & LIM_FWD_MSK) != 0;

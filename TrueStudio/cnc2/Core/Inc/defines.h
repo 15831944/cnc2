@@ -26,12 +26,13 @@
 #define FAC_VER (0)
 #define FAC_REV (2) // CNC2
 #define VER (2)
-#define REV (16)
+#define REV (17)
 
 // 0.2.2.10 - semaphore unblocked at the start with error
 // 0.2.2.11 - corrected feedback calculation error
 // 0.2.2.12 - PID for V
 // 0.2.2.16 - changed the slowest speed to 0.01 mm/min, added is_init in context
+// 0.2.2.17 - forgotten break for encXY
 
 ///////////////////////////////////////
 #define FPGA_CLOCK (72e6) // Hz
